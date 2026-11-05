@@ -1,0 +1,3720 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "name": "創意發展",
+      "english": "Creative Development",
+      "target": 80,
+      "sources": [
+        "1"
+      ],
+      "sets": [
+        [
+          {
+            "id": "quiz1-14",
+            "chapter": 1,
+            "source": "1",
+            "number": 14,
+            "pages": [
+              15
+            ],
+            "stem": "A company that develops educational software wants to assemble a collaborative team of developers from a variety of professional and cultural backgrounds. Which of the following is NOT considered a benefit of assembling such a team?",
+            "options": [
+              "Collaboration that includes diverse backgrounds and perspectives can eliminate the need for software testing.",
+              "Collaboration that includes diverse backgrounds and perspectives can help the team anticipate the needs of a variety of software users.",
+              "Collaboration that includes diverse backgrounds and perspectives can help the team avoid bias.",
+              "Collaboration that includes diverse backgrounds and perspectives can reflect the strengths of the individual team members."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-15",
+            "chapter": 1,
+            "source": "1",
+            "number": 15,
+            "pages": [
+              15
+            ],
+            "stem": "Which of the following best describes one of the benefits of using an iterative and incremental process of program development?",
+            "options": [
+              "It allows programmers to implement algorithmic solutions to otherwise unsolvable problems.",
+              "It eliminates the need for programmers to test completed programs.",
+              "It enables programmers to create programs that use the lowest-level abstractions available.",
+              "It helps programmers identify errors as components are added to a working program."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-16",
+            "chapter": 1,
+            "source": "1",
+            "number": 16,
+            "pages": [
+              15
+            ],
+            "stem": "Which of the following actions are generally helpful in program development?<br>I. Consulting potential users of the program to identify their concerns<br>II. Writing and testing small code segments before adding them to the program<br>III. Collaborating with other individuals when developing a large program",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-17",
+            "chapter": 1,
+            "source": "1",
+            "number": 17,
+            "pages": [
+              15
+            ],
+            "stem": "In a certain computer program, two positive integers are added together, resulting in an overflow error. Which of the following best explains why the error occurs?",
+            "options": [
+              "The program attempted to perform an operation that is considered an undecidable problem.",
+              "The precision of the result is limited due to the constraints of using a floating-point representation.",
+              "The program can only use a fixed number of bits to represent integers; the computed sum is greater than the maximum representable value.",
+              "The program cannot represent integers; the integers are converted into decimal approximations, leading to rounding errors."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-20",
+            "chapter": 1,
+            "source": "1",
+            "number": 20,
+            "pages": [
+              21
+            ],
+            "stem": "Central High School keeps a database of information about each student, including the numeric variables numberOfAbsences and gradePointAverage. The expression below is used to determine whether a student is eligible to receive an academic award. (numberOfAbsences ≤ 5) AND (gradePointAverage &gt; 3.5) Which of the following pairs of values indicates that a student is eligible to receive an academic award?",
+            "options": [
+              "numberOfAbsences = 3, gradePointAverage = 3.5",
+              "numberOfAbsences = 5, gradePointAverage = 3.8",
+              "numberOfAbsences = 6, gradePointAverage = 3.4",
+              "numberOfAbsences = 6, gradePointAverage = 3.6"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-21",
+            "chapter": 1,
+            "source": "1",
+            "number": 21,
+            "pages": [
+              21
+            ],
+            "stem": "Which of the following is NOT a benefit of collaborating to develop a computing innovation?",
+            "options": [
+              "Collaboration can decrease the size and complexity of tasks required of individual team members.",
+              "Collaboration can make it easier to find and correct errors during the development process.",
+              "Collaboration eliminates the need to resolve differences of opinion.",
+              "Collaboration facilitates multiple perspectives in developing ideas."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-23",
+            "chapter": 1,
+            "source": "1",
+            "number": 23,
+            "pages": [
+              22
+            ],
+            "stem": "Which of the following data are needed for DineOutHelper to recommend a restaurant for the group?<br>I. Each group member’s list of food allergies or dietary restrictions<br>II. Alejandra’s geographic location<br>III. The usernames of the people on Brandon and Cynthia’s contact lists",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-25",
+            "chapter": 1,
+            "source": "1",
+            "number": 25,
+            "pages": [
+              23
+            ],
+            "stem": "Adrianna uses RunRoutr to suggest a running route. All compatible users near Adrianna receive a notification that shows her running route. Which of the following data is not obtained using data collected from Adrianna’s smartphone but necessary for RunRoutr to share Adrianna’s running route?",
+            "options": [
+              "Adrianna’s average running speed",
+              "Adrianna’s preferred running distance",
+              "The current locations of other RunRoutr users",
+              "The usernames on Adrianna’s contact list"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-27",
+            "chapter": 1,
+            "source": "1",
+            "number": 27,
+            "pages": [
+              26
+            ],
+            "stem": "The upgraded system uses a directory containing additional information not supplied by the customer. The directory is used to help direct calls effectively. Which of the following is LEAST likely to be included in the directory?",
+            "options": [
+              "A list of common issues and whether each issue requires a human representative",
+              "A list of common keywords or phrases and a corresponding issue for each keyword or phrase",
+              "A list of computers the company owns and the computers’ corresponding IP addresses",
+              "A list of human representatives and the corresponding department for each representative"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-28",
+            "chapter": 1,
+            "source": "1",
+            "number": 28,
+            "pages": [
+              26
+            ],
+            "stem": "To direct a call to the appropriate destination, which of the following input data is needed by the upgraded system that was NOT needed by the original system?<br>I. Audio signal of the customer’s voice<br>II. The customer’s keypad selection<br>III. The customer’s phone number",
+            "options": [
+              "I only",
+              "II only",
+              "I and III only",
+              "I, II, and III"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-32",
+            "chapter": 1,
+            "source": "1",
+            "number": 32,
+            "pages": [
+              28
+            ],
+            "stem": "A local router is configured to limit the bandwidth of guest users connecting to the Internet. Which of the following best explains the result of this configuration as compared to a configuration in which the router does not limit the bandwidth?",
+            "options": [
+              "The amount of time it takes guest users to send and receive large files is likely to decrease.",
+              "The number of packets required for guest users to send and receive data is likely to decrease.",
+              "Guest users will be prevented from having fault-tolerant routing on the Internet.",
+              "Guest users will be restricted in the maximum amount of data that they can send and receive per second."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-45",
+            "chapter": 1,
+            "source": "1",
+            "number": 45,
+            "pages": [
+              37,
+              38
+            ],
+            "stem": "Three students in different locations are collaborating on the development of an application. Which of the following strategies is LEAST likely to facilitate collaboration among the students?",
+            "options": [
+              "Having all three students participate in frequent video chat sessions to discuss ideas about the project and to provide feedback on work done so far",
+              "Having all three students use an online shared folder to contribute and discuss components to be considered for use in the application",
+              "Having all three students write code independently and then having one student combine the code into a program",
+              "Having all three students work in a shared document that each can edit to provide comments on the work in progress"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-48",
+            "chapter": 1,
+            "source": "1",
+            "number": 48,
+            "pages": [
+              39
+            ],
+            "stem": "A student is creating an application that allows customers to order food for delivery from a local restaurant. Which of the following is LEAST likely to be an input provided by a customer using the application?",
+            "options": [
+              "The address where the order should be delivered",
+              "The cost of a food item currently available for order",
+              "The credit card or payment information for the purchaser",
+              "The name of a food item to be included in the delivery"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-61",
+            "chapter": 1,
+            "source": "1",
+            "number": 61,
+            "pages": [
+              62
+            ],
+            "stem": "Which of the following is a true statement about program documentation?",
+            "options": [
+              "Program documentation should not be changed after it is first written.",
+              "Program documentation is only needed for programs in development; it is not needed after a program is completed.",
+              "Program documentation is useful when programmers collaborate but not when a programmer works individually on a project.",
+              "Program documentation is useful during initial program development and also when modifications are made to existing programs."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz1-63",
+            "chapter": 1,
+            "source": "1",
+            "number": 63,
+            "pages": [
+              64
+            ],
+            "stem": "A company that develops mobile applications wants to involve users in the software development process. Which of the following best explains the benefit in having users participate?",
+            "options": [
+              "Users can identify and correct errors they encounter when using released versions of the software.",
+              "Users can review the algorithms used in the software to help improve their efficiency.",
+              "Users can provide documentation for program code at the end of the software development process.",
+              "Users can provide feedback that can be used to incorporate a variety of perspectives into the software."
+            ],
+            "answer": "D",
+            "explanation": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "name": "資料",
+      "english": "Data",
+      "target": 80,
+      "sources": [
+        "2"
+      ],
+      "sets": [
+        [
+          {
+            "id": "quiz2-1",
+            "chapter": 2,
+            "source": "2",
+            "number": 1,
+            "pages": [
+              1
+            ],
+            "stem": "A programmer is writing a program that is intended to be able to process large amounts of data. Which of the following considerations is LEAST likely to affect the ability of the program to process larger data sets?",
+            "options": [
+              "How long the program takes to run",
+              "How many programming statements the program contains",
+              "How much memory the program requires as it runs",
+              "How much storage space the program requires as it runs"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-3",
+            "chapter": 2,
+            "source": "2",
+            "number": 3,
+            "pages": [
+              2
+            ],
+            "stem": "A certain social media Web site allows users to post messages and to comment on other messages that have been posted. When a user posts a message, the message itself is considered data. In addition to the data, the site stores the following metadata.<br>• The time the message was posted<br>• The name of the user who posted the message<br>• The names of any users who comment on the message and the times the comments were made For which of the following goals would it be more useful to analyze the data instead of the metadata?",
+            "options": [
+              "To determine the users who post messages most frequently",
+              "To determine the time of day that the site is most active",
+              "To determine the topics that many users are posting about",
+              "To determine which posts from a particular user have received the greatest number of comments"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-5",
+            "chapter": 2,
+            "source": "2",
+            "number": 5,
+            "pages": [
+              2
+            ],
+            "stem": "A computer program uses 3 bits to represent integers. When the program adds the decimal (base 10) numbers 5 and 3, the result is 0. Which of the following is the best explanation for the result?",
+            "options": [
+              "An overflow error occurred.",
+              "A round-off error occurred.",
+              "The result was affected by lossy data compression.",
+              "The result was approximated by a floating-point representation."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-7",
+            "chapter": 2,
+            "source": "2",
+            "number": 7,
+            "pages": [
+              3
+            ],
+            "stem": "A certain programming language uses 4-bit binary sequences to represent nonnegative integers. For example, the binary sequence 0101 represents the corresponding decimal value 5. Using this programming language, a programmer attempts to add the decimal values 14 and 15 and assign the sum to the variable total. Which of the following best describes the result of this operation?",
+            "options": [
+              "The correct sum of 29 will be assigned to the variable total.",
+              "An overflow error will occur because 4 bits is not large enough to represent either of the values 14 or 15.",
+              "An overflow error will occur because 4 bits is not large enough to represent 29, the sum of 14 and 15.",
+              "A round-off error will occur because the decimal values 14 and 15 are represented as approximations due to the fixed number of bits used to represent numbers."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-8",
+            "chapter": 2,
+            "source": "2",
+            "number": 8,
+            "pages": [
+              3
+            ],
+            "stem": "Which of the following is an advantage of a lossless compression algorithm over a lossy compression algorithm?",
+            "options": [
+              "A lossless compression algorithm can guarantee that compressed information is kept secure, while a lossy compression algorithm cannot.",
+              "A lossless compression algorithm can guarantee reconstruction of original data, while a lossy compression algorithm cannot.",
+              "A lossless compression algorithm typically allows for faster transmission speeds than does a lossy compression algorithm.",
+              "A lossless compression algorithm typically provides a greater reduction in the number of bits stored or transmitted than does a lossy compression algorithm."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-9",
+            "chapter": 2,
+            "source": "2",
+            "number": 9,
+            "pages": [
+              4
+            ],
+            "stem": "A large data set contains information about all students majoring in computer science in colleges across the United States. The data set contains the following information about each student.<br>• The student’s gender<br>• The state in which the student attends college<br>• The student’s grade point average on a 4.0 scale Which of the following questions could be answered by analyzing only information in the data set?",
+            "options": [
+              "Do students majoring in computer science tend to have higher grade point averages than students majoring in other subjects?",
+              "How many states have a higher percentage of female computer science majors than male computer science majors attending college in that state?",
+              "What percent of students attending college in a certain state are majoring in computer science?",
+              "Which college has the highest number of students majoring in computer science?"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-11",
+            "chapter": 2,
+            "source": "2",
+            "number": 11,
+            "pages": [
+              5
+            ],
+            "stem": "A library of e-books contains metadata for each book. The metadata are intended to help a search feature find books that users are interested in. Which of the following is LEAST likely to be contained in the metadata of each e-book?",
+            "options": [
+              "An archive containing previous versions of the e-book",
+              "The author and title of the e-book",
+              "The date the e-book was first published",
+              "The genre of the e-book (e.g., comedy, fantasy, romance, etc.)"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-12",
+            "chapter": 2,
+            "source": "2",
+            "number": 12,
+            "pages": [
+              5
+            ],
+            "stem": "A media librarian at a movie studio is planning to save digital video files for archival purposes. The movie studio would like to be able to access full-quality videos if they are needed for future projects. Which of the following actions is LEAST likely to support the studio’s goal?",
+            "options": [
+              "Using video file formats that conform to published standards and are supported across many different devices",
+              "Using lossy compression software to reduce the size requirements of the data being stored",
+              "Using storage media that can be expanded for additional data capacity",
+              "Using a system that incorporates redundancy to handle disk failure"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-13",
+            "chapter": 2,
+            "source": "2",
+            "number": 13,
+            "pages": [
+              5
+            ],
+            "stem": "A digital photo file contains data representing the level of red, green, and blue for each pixel in the photo. The file also contains metadata that describes the date and geographic location where the photo was taken. For which of the following goals would analyzing the metadata be more appropriate than analyzing the data?",
+            "options": [
+              "Determining the likelihood that the photo is a picture of the sky",
+              "Determining the likelihood that the photo was taken at a particular public event",
+              "Determining the number of people that appear in the photo",
+              "Determining the usability of the photo for projection onto a particular color background"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-15",
+            "chapter": 2,
+            "source": "2",
+            "number": 15,
+            "pages": [
+              6
+            ],
+            "stem": "An Internet service provider (ISP) is considering an update to its servers that would save copies of the Web pages most frequently visited by each user. Which of the following is LEAST likely to occur as a result of the update?",
+            "options": [
+              "Average response time for user requests might decrease.",
+              "Privacy of users might be negatively affected.",
+              "Storage requirements for the servers might increase.",
+              "Web sites that are not visited frequently might no longer be accessible to users."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-16",
+            "chapter": 2,
+            "source": "2",
+            "number": 16,
+            "pages": [
+              6
+            ],
+            "stem": "An online store uses 6-bit binary sequences to identify each unique item for sale. The store plans to increase the number of items it sells and is considering using 7-bit binary sequences. Which of the following best describes the result of using 7-bit sequences instead of 6-bit sequences?",
+            "options": [
+              "2 more items can be uniquely identified.",
+              "10 more items can be uniquely identified.",
+              "2 times as many items can be uniquely identified.",
+              "10 times as many items can be uniquely identified."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-18",
+            "chapter": 2,
+            "source": "2",
+            "number": 18,
+            "pages": [
+              8
+            ],
+            "stem": "A retailer that sells footwear maintains a single database containing records with the following information about each item for sale in the retailer’s store.<br>• Item identification number<br>• Footwear type (sneakers, boots, sandals, etc.)<br>• Selling price (in dollars)<br>• Size<br>• Color<br>• Quantity available Using only the database, which of the following can be determined?",
+            "options": [
+              "Which items listed in the database are not currently in the store",
+              "Which colors are more popular among men than women",
+              "Which type of footwear is most popular among adults",
+              "The total number of shoes sold in a particular month"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-21",
+            "chapter": 2,
+            "source": "2",
+            "number": 21,
+            "pages": [
+              9
+            ],
+            "stem": "A search engine has a trend-tracking feature that provides information on how popular a search term is. The data can be filtered by geographic region, date, and category. Categories include arts and entertainment, computers and electronics, games, news, people and society, shopping, sports, and travel. Which of the following questions is LEAST likely to be answerable using the trends feature?",
+            "options": [
+              "In what month does a particular sport receive the most searches?",
+              "In which political candidates are people interested?",
+              "What is the cost of a certain electronics product?",
+              "Which region of the country has the greatest number of people searching for opera performances?"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-22",
+            "chapter": 2,
+            "source": "2",
+            "number": 22,
+            "pages": [
+              10
+            ],
+            "stem": "A smartphone stores the following data for each photo that is taken using the phone.<br>• The file name of the photo<br>• The date and time the photo was taken<br>• The geographic location where the photo was taken Assume that all of the photos that have been taken on the phone are accessible. Which of the following can be determined using the photo data described above?<br>I. The number of photos that were taken at a particular geographic location<br>II. The number of photos that were taken in the last year<br>III. The name of the person who took the most recent photo",
+            "options": [
+              "III only",
+              "I and II only",
+              "I and III only",
+              "I, II, and III"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-23",
+            "chapter": 2,
+            "source": "2",
+            "number": 23,
+            "pages": [
+              10
+            ],
+            "stem": "A student is recording a song on her computer. When the recording is finished, she saves a copy on her computer. The student notices that the saved copy is of lower sound quality than the original recording. Which of the following could be a possible explanation for the difference in sound quality?",
+            "options": [
+              "The song was saved using fewer bits per second than the original song.",
+              "The song was saved using more bits per second than the original song.",
+              "The song was saved using a lossless compression technique.",
+              "Some information is lost every time a file is saved from one location on a computer to another location."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-25",
+            "chapter": 2,
+            "source": "2",
+            "number": 25,
+            "pages": [
+              11
+            ],
+            "stem": "Which of the following best describes the average amount of data stored per user for the first eight years of the application’s existence?",
+            "options": [
+              "Across all eight years, the average amount of data stored per user was about 10 GB.",
+              "Across all eight years, the average amount of data stored per user was about 100 GB.",
+              "The average amount of data stored per user appears to increase by about 10 GB each year.",
+              "The average amount of data stored per user appears to increase by about 100 GB each year."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-26",
+            "chapter": 2,
+            "source": "2",
+            "number": 26,
+            "pages": [
+              11,
+              12
+            ],
+            "stem": "Which of the following observations is most consistent with the information in the circle graph?",
+            "options": [
+              "Over 75% of the files stored are 1 MB in size or less.",
+              "Over 75% of the files stored are 10 MB in size or less.",
+              "Over 75% of the files stored are at least 100 KB in size.",
+              "Over 75% of the files stored are at least 1 MB in size."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-27",
+            "chapter": 2,
+            "source": "2",
+            "number": 27,
+            "pages": [
+              12
+            ],
+            "stem": "Which of the following best describes the growth in the number of registered users for the first eight years of the application’s existence?",
+            "options": [
+              "The number of registered users increased at about a constant rate each year for all eight years.",
+              "The number of registered users increased at about a constant rate for years 1 to 5 and then about doubled each year after that.",
+              "The number of registered users about doubled each year for years 1 to 5 and then increased at about a constant rate after that.",
+              "The number of registered users about doubled each year for all eight years."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-28",
+            "chapter": 2,
+            "source": "2",
+            "number": 28,
+            "pages": [
+              12
+            ],
+            "stem": "A video-streaming Web site uses 32-bit integers to count the number of times each video has been played. In anticipation of some videos being played more times than can be represented with 32 bits, the Web site is planning to change to 64-bit integers for the counter. Which of the following best describes the result of using 64-bit integers instead of 32-bit integers?",
+            "options": [
+              "2 times as many values can be represented.",
+              "32 times as many values can be represented.",
+              "232 times as many values can be represented.",
+              "322 times as many values can be represented."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-30",
+            "chapter": 2,
+            "source": "2",
+            "number": 30,
+            "pages": [
+              13
+            ],
+            "stem": "What is the binary RGB triplet for the color indigo?",
+            "options": [
+              "(00100101, 00000000, 10000010)",
+              "(00100101, 00000000, 01000001)",
+              "(01001011, 00000000, 10000010)",
+              "(01001011, 00000000, 01000001)"
+            ],
+            "answer": "C",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz2-32",
+            "chapter": 2,
+            "source": "2",
+            "number": 32,
+            "pages": [
+              14
+            ],
+            "stem": "Biologists often attach tracking collars to wild animals. For each animal, the following geolocation data is collected at frequent intervals.<br>• The time<br>• The date<br>• The location of the animal Which of the following questions about a particular animal could NOT be answered using only the data collected from the tracking collars?",
+            "options": [
+              "Approximately how many miles did the animal travel in one week?",
+              "Does the animal travel in groups with other tracked animals?",
+              "Do the movement patterns of the animal vary according to the weather?",
+              "In what geographic locations does the animal typically travel?"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-33",
+            "chapter": 2,
+            "source": "2",
+            "number": 33,
+            "pages": [
+              14
+            ],
+            "stem": "A video game character can face toward one of four directions: north, south, east, and west. Each direction is stored in memory as a sequence of four bits. A new version of the game is created in which the character can face toward one of eight directions, adding northwest, northeast, southwest, and southeast to the original four possibilities. Which of the following statements is true about how the eight directions must be stored in memory?",
+            "options": [
+              "Four bits are not enough to store the eight directions. Five bits are needed for the new version of the game.",
+              "Four bits are not enough to store the eight directions. Eight bits are needed for the new version of the game.",
+              "Four bits are not enough to store the eight directions. Sixteen bits are needed for the new version of the game.",
+              "Four bits are enough to store the eight directions."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-37",
+            "chapter": 2,
+            "source": "2",
+            "number": 37,
+            "pages": [
+              17
+            ],
+            "stem": "A video-streaming Web site keeps count of the number of times each video has been played since it was first added to the site. The count is updated each time a video is played and is displayed next to each video to show its popularity. At one time, the count for the most popular video was about two million. Sometime later, the same video displayed a seven-digit negative number as its count, while the counts for the other videos displayed correctly. Which of the following is the most likely explanation for the error?",
+            "options": [
+              "The count for the video became larger than the maximum value allowed by the data type used to store the count.",
+              "The mathematical operations used to calculate the count caused a rounding error to occur.",
+              "The software used to update the count failed when too many videos were played simultaneously by too many users.",
+              "The software used to update the count contained a sampling error when using digital data to approximate the analog count."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-38",
+            "chapter": 2,
+            "source": "2",
+            "number": 38,
+            "pages": [
+              17
+            ],
+            "stem": "A researcher is analyzing data about students in a school district to determine whether there is a relationship between grade point average and number of absences. The researcher plans on compiling data from several sources to create a record for each student. The researcher has access to a database with the following information about each student.<br>• Last name<br>• First name<br>• Grade level (9, 10, 11, or 12)<br>• Grade point average (on a 0.0 to 4.0 scale) The researcher also has access to another database with the following information about each student.<br>• First name<br>• Last name<br>• Number of absences from school<br>• Number of late arrivals to school Upon compiling the data, the researcher identifies a problem due to the fact that neither data source uses a unique ID number for each student. Which of the following best describes the problem caused by the lack of unique ID numbers?",
+            "options": [
+              "Students who have the same name may be confused with each other.",
+              "Students who have the same grade point average may be confused with each other.",
+              "Students who have the same grade level may be confused with each other.",
+              "Students who have the same number of absences may be confused with each other."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-39",
+            "chapter": 2,
+            "source": "2",
+            "number": 39,
+            "pages": [
+              18
+            ],
+            "stem": "A team of researchers wants to create a program to analyze the amount of pollution reported in roughly 3,000 counties across the United States. The program is intended to combine county data sets and then process the data. Which of the following is most likely to be a challenge in creating the program?",
+            "options": [
+              "A computer program cannot combine data from different files.",
+              "Different counties may organize data in different ways.",
+              "The number of counties is too large for the program to process.",
+              "The total number of rows of data is too large for the program to process."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-43",
+            "chapter": 2,
+            "source": "2",
+            "number": 43,
+            "pages": [
+              20
+            ],
+            "stem": "Each student at a school has a unique student ID number. A teacher has the following spreadsheets available.<br>• Spreadsheet I contains information on all students at the school. For each entry in this spreadsheet, the student name, the student ID, and the student’s grade point average are included.<br>• Spreadsheet II contains information on only students who play at least one sport. For each entry in this spreadsheet, the student ID and the names of the sports the student plays are included.<br>• Spreadsheet III contains information on only students whose grade point average is greater than 3.5. For each entry in this spreadsheet, the student name and the student ID are included.<br>• Spreadsheet IV contains information on only students who play more than one sport. For each entry in this spreadsheet, the student name and the student ID are included. The teacher wants to determine whether students who play a sport are more or less likely to have higher grade point averages than students who do not play any sports. Which of the following pairs of spreadsheets can be combined and analyzed to determine the desired information?",
+            "options": [
+              "Spreadsheets I and II",
+              "Spreadsheets I and IV",
+              "Spreadsheets II and III",
+              "Spreadsheets III and IV"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-45",
+            "chapter": 2,
+            "source": "2",
+            "number": 45,
+            "pages": [
+              21
+            ],
+            "stem": "A user wants to save a data file on an online storage site. The user wants to reduce the size of the file, if possible, and wants to be able to completely restore the file to its original version. Which of the following actions best supports the user’s needs?",
+            "options": [
+              "Compressing the file using a lossless compression algorithm before uploading it",
+              "Compressing the file using a lossy compression algorithm before uploading it",
+              "Compressing the file using both lossy and lossless compression algorithms before uploading it",
+              "Uploading the original file without using any compression algorithm"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-47",
+            "chapter": 2,
+            "source": "2",
+            "number": 47,
+            "pages": [
+              22
+            ],
+            "stem": "Computers are often used to search through large sets of data to find useful patterns in the data. Which of the following tasks is NOT an example where searching for patterns is needed to produce useful information?",
+            "options": [
+              "A credit card company analyzing credit card purchases to identify potential fraudulent charges",
+              "A grocery store analyzing customers’ past purchases to suggest new products the customer may be interested in",
+              "A high school analyzing student grades to identify the students with the top ten highest grade point averages",
+              "An online retailer analyzing customers’ viewing habits to suggest other products based on the purchasing history of other customers"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-50",
+            "chapter": 2,
+            "source": "2",
+            "number": 50,
+            "pages": [
+              24
+            ],
+            "stem": "What is the decimal value for the jump control?",
+            "options": [
+              "3",
+              "12",
+              "24",
+              "48"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-52",
+            "chapter": 2,
+            "source": "2",
+            "number": 52,
+            "pages": [
+              25
+            ],
+            "stem": "Which of the following is a true statement about data compression?",
+            "options": [
+              "Data compression is only useful for files being transmitted over the Internet.",
+              "Regardless of the compression technique used, once a data file is compressed, it cannot be restored to its original state.",
+              "Sending a compressed version of a file ensures that the contents of the file cannot be intercepted by an unauthorized user.",
+              "There are trade-offs involved in choosing a compression technique for storing and transmitting data."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-54",
+            "chapter": 2,
+            "source": "2",
+            "number": 54,
+            "pages": [
+              27
+            ],
+            "stem": "Which of the following can be represented by a sequence of bits?<br>I. An integer<br>II. An alphanumeric character<br>III. A machine language instruction",
+            "options": [
+              "I only",
+              "III only",
+              "I and II only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-55",
+            "chapter": 2,
+            "source": "2",
+            "number": 55,
+            "pages": [
+              27
+            ],
+            "stem": "Which of the following are true statements about the data that can be represented using binary sequences?<br>I. Binary sequences can be used to represent strings of characters.<br>II. Binary sequences can be used to represent colors.<br>III. Binary sequences can be used to represent audio recordings.",
+            "options": [
+              "I only",
+              "I and II only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-56",
+            "chapter": 2,
+            "source": "2",
+            "number": 56,
+            "pages": [
+              27
+            ],
+            "stem": "Consider the 4-bit binary numbers 0011, 0110, and 1111. Which of the following decimal values is NOT equal to one of these binary numbers?",
+            "options": [
+              "3",
+              "6",
+              "9",
+              "15"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-57",
+            "chapter": 2,
+            "source": "2",
+            "number": 57,
+            "pages": [
+              28
+            ],
+            "stem": "A database of information about shows at a concert venue contains the following information.<br>• Name of artist performing at the show<br>• Date of show<br>• Total dollar amount of all tickets sold Which of the following additional pieces of information would be most useful in determining the artist with the greatest attendance during a particular month?",
+            "options": [
+              "Average ticket price",
+              "Length of the show in minutes",
+              "Start time of the show",
+              "Total dollar amount of food and drinks sold during the show"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-59",
+            "chapter": 2,
+            "source": "2",
+            "number": 59,
+            "pages": [
+              28
+            ],
+            "stem": "Which of the following best explains how an analog audio signal is typically represented by a computer?",
+            "options": [
+              "An analog audio signal is measured as input parameters to a program or procedure. The inputs are represented at the lowest level as a collection of variables.",
+              "An analog audio signal is measured at regular intervals. Each measurement is stored as a sample, which is represented at the lowest level as a sequence of bits.",
+              "An analog audio signal is measured as a sequence of operations that describe how the sound can be reproduced. The operations are represented at the lowest level as programming instructions.",
+              "An analog audio signal is measured as text that describes the attributes of the sound. The text is represented at the lowest level as a string."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-60",
+            "chapter": 2,
+            "source": "2",
+            "number": 60,
+            "pages": [
+              28,
+              29
+            ],
+            "stem": "The position of a runner in a race is a type of analog data. The runner’s position is tracked using sensors. Which of the following best describes how the position of the runner is represented digitally?",
+            "options": [
+              "The position of the runner is determined by calculating the time difference between the start and the end of the race and making an estimation based on the runner’s average speed.",
+              "The position of the runner is measured and rounded to either 0 or 1 depending on whether the runner is closer to the starting line or closer to the finish line.",
+              "The position of the runner is predicted using a model based on performance data captured from previous races.",
+              "The position of the runner is sampled at regular intervals to approximate the real-word position, and a sequence of bits is used to represent each sample."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-61",
+            "chapter": 2,
+            "source": "2",
+            "number": 61,
+            "pages": [
+              29
+            ],
+            "stem": "Historically, it has been observed that computer processing speeds tend to double every two years. Which of the following best describes how technology companies can use this observation for planning purposes?",
+            "options": [
+              "Technology companies can accurately predict the dates when new computing innovations will be available to use.",
+              "Technology companies can plan to double the costs of new products each time advances in processing speed occur.",
+              "Technology companies can set research and development goals based on anticipated processing speeds.",
+              "Technology companies can spend less effort developing new processors because processing speed will always improve at the observed rate."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-62",
+            "chapter": 2,
+            "source": "2",
+            "number": 62,
+            "pages": [
+              29
+            ],
+            "stem": "A binary number is to be transformed by appending three 0s to the end of the number. For example, 11101 is transformed to 11101000. Which of the following correctly describes the relationship between the transformed number and the original number?",
+            "options": [
+              "The transformed number is 3 times the value of the original number.",
+              "The transformed number is 4 times the value of the original number.",
+              "The transformed number is 8 times the value of the original number.",
+              "The transformed number is 1,000 times the value of the original number."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-64",
+            "chapter": 2,
+            "source": "2",
+            "number": 64,
+            "pages": [
+              30
+            ],
+            "stem": "A student wants to count the number of restaurants in the spreadsheet whose price range is $30 or less and whose average customer rating is at least 4.0. For a given row in the spreadsheet, suppose prcRange contains the price range as a string and avgRating contains the average customer rating as a decimal number. Which of the following expressions will evaluate to true if the restaurant should be counted and evaluates to false otherwise?",
+            "options": [
+              "(avgRating ≥ 4.0) AND ((prcRange = \"lo\") AND (prcRange = \"med\"))",
+              "(avgRating ≥ 4.0) AND ((prcRange = \"lo\") OR (prcRange = \"med\"))",
+              "(avgRating ≥ 4.0) OR ((prcRange = \"lo\") AND (prcRange = \"med\"))",
+              "(avgRating ≥ 4.0) OR ((prcRange = \"lo\") OR (prcRange = \"med\"))"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-65",
+            "chapter": 2,
+            "source": "2",
+            "number": 65,
+            "pages": [
+              31
+            ],
+            "stem": "A student is developing an algorithm to determine which of the restaurants that accept credit cards has the greatest average customer rating. Restaurants that have not yet received any customer ratings and restaurants that do not accept credit card are to be ignored. Once the algorithm is complete, the desired restaurant will appear in the first row of the spreadsheet. If there are multiple entries that fit the desired criteria, it does not matter which of them appears in the first row. The student has the following actions available but is not sure of the order in which they should be executed. Action Explanation Filter by number of ratings Remove entries for restaurants with no customer ratings Filter by payment type Remove entries for restaurants that do not accept credit cards Sort by rating Sort the rows in the spreadsheet on column D from greatest to least Assume that applying either of the filters will not change the relative order of the rows remaining in the spreadsheet. Which of the following sequences of steps can be used to identify the desired restaurant?<br>I. Filter by number of ratings, then filter by payment type, then sort by rating<br>II. Filter by number of ratings, then sort by rating, then filter by payment type<br>III. Sort by rating, then filter by number of ratings, then filter by payment type",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz2-67",
+            "chapter": 2,
+            "source": "2",
+            "number": 67,
+            "pages": [
+              32
+            ],
+            "stem": "Which of the following best explains how data is transmitted on the Internet?",
+            "options": [
+              "Data is broken into packets, which are all sent to the recipient in a specified order along the same path.",
+              "Data is broken into packets, which can be sent along different paths.",
+              "All data is transmitted in a single packet through a direct connection between the sender and the recipient.",
+              "Multiple data files are bundled together in a packet and transmitted together."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-69",
+            "chapter": 2,
+            "source": "2",
+            "number": 69,
+            "pages": [
+              32
+            ],
+            "stem": "Delivery trucks enter and leave a depot through a controlled gate. At the depot, each truck is loaded with packages, which will then be delivered to one or more customers. As each truck enters and leaves the depot, the following information is recorded and uploaded to a database.<br>• The truck’s identification number<br>• The truck’s weight<br>• The date and time the truck passes through the gate<br>• Whether the truck is entering or leaving the depot Using only the information in the database, which of the following questions CANNOT be answered?",
+            "options": [
+              "On which day in a particular range of dates did the greatest number of trucks enter and leave the depot?",
+              "What is the average number of customer deliveries made by each truck on a particular day?",
+              "What is the change in weight of a particular truck between when it entered and left the depot?",
+              "Which truck has the shortest average time spent at the depot on a particular day?"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-70",
+            "chapter": 2,
+            "source": "2",
+            "number": 70,
+            "pages": [
+              33
+            ],
+            "stem": "A library system contains information for each book that was borrowed. Each time a person borrows or returns a book from the library, the following information is recorded in a database.<br>• Name and the unique ID number of the person who was borrowing the book<br>• Author, title, and the unique ID number of the book that was borrowed<br>• Date that the book was borrowed<br>• Date that the book was due to be returned<br>• Date that the book was returned (or 0 if the book has not been returned yet) Which of the following CANNOT be determined from the information collected by the system?",
+            "options": [
+              "The total number of books borrowed in a given year",
+              "The total number of books that were never borrowed in a given year",
+              "The total number of books that were returned past their due date in a given year",
+              "The total number of people who borrowed at least one book in a given year"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-71",
+            "chapter": 2,
+            "source": "2",
+            "number": 71,
+            "pages": [
+              33
+            ],
+            "stem": "A camera mounted on the dashboard of a car captures an image of the view from the driver’s seat every second. Each image is stored as data. Along with each image, the camera also captures and stores the car’s speed, the date and time, and the car’s GPS location as metadata. Which of the following can best be determined using only the data and none of the metadata?",
+            "options": [
+              "The average number of hours per day that the car is in use",
+              "The car’s average speed on a particular day",
+              "The distance the car traveled on a particular day",
+              "The number of bicycles the car passed on a particular day"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-72",
+            "chapter": 2,
+            "source": "2",
+            "number": 72,
+            "pages": [
+              33
+            ],
+            "stem": "A teacher sends students an anonymous survey in order to learn more about the students’ work habits. The survey contains the following questions.<br>• On average, how long does homework take you each night (in minutes) ?<br>• On average, how long do you study for each test (in minutes) ?<br>• Do you enjoy the subject material of this class (yes or no) ? Which of the following questions about the students who responded to the survey can the teacher answer by analyzing the survey results?<br>I. Do students who enjoy the subject material tend to spend more time on homework each night than the other students do?<br>II. Do students who spend more time on homework each night tend to spend less time studying for tests than the other students do?<br>III. Do students who spend more time studying for tests tend to earn higher grades in the class than the other students do?",
+            "options": [
+              "I only",
+              "III only",
+              "I and II",
+              "I and III"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-73",
+            "chapter": 2,
+            "source": "2",
+            "number": 73,
+            "pages": [
+              34
+            ],
+            "stem": "A person wants to transmit an audio file from a device to a second device. Which of the following scenarios best demonstrates the use of lossless compression of the original file?",
+            "options": [
+              "A device compresses the audio file before transmitting it to a second device. The second device restores the compressed file to its original version before playing it.",
+              "A device compresses the audio file by removing details that are not easily perceived by the human ear. The compressed file is transmitted to a second device, which plays it.",
+              "A device transmits the original audio file to a second device. The second device removes metadata from the file before playing it.",
+              "A device transmits the original audio file to a second device. The second device plays the transmitted file as is."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-74",
+            "chapter": 2,
+            "source": "2",
+            "number": 74,
+            "pages": [
+              34
+            ],
+            "stem": "In which of the following situations would it be most appropriate to choose lossy compression over lossless compression?",
+            "options": [
+              "Storing digital photographs to be printed and displayed in a large format in an art gallery",
+              "Storing a formatted text document to be restored to its original version for a print publication",
+              "Storing music files on a smartphone in order to maximize the number of songs that can be stored",
+              "Storing a video file on an external device in order to preserve the highest possible video quality"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-75",
+            "chapter": 2,
+            "source": "2",
+            "number": 75,
+            "pages": [
+              34
+            ],
+            "stem": "When a cellular telephone user places a call, the carrier transmits the caller’s voice as well as the voice of the person who is called. The encoded voices are the data of the call. In addition to transmitting the data, the carrier also stores metadata. The metadata of the call include information such as the time the call is placed and the phone numbers of both participants. For which of the following goals would it be more useful to computationally analyze the metadata instead of the data?<br>I. To determine if a caller frequently uses a specific word<br>II. To estimate the number of phone calls that will be placed next Monday between 10:30 A.M. and noon.<br>III. To generate a list of criminal suspects when given the telephone number of a known criminal",
+            "options": [
+              "I only",
+              "II only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-76",
+            "chapter": 2,
+            "source": "2",
+            "number": 76,
+            "pages": [
+              34
+            ],
+            "stem": "A list of binary values (0 or 1) is used to represent a black-and-white image. Which of the following is LEAST likely to be stored as metadata associated with the image?",
+            "options": [
+              "Copyright information for the image",
+              "The date and time the image was created",
+              "The dimensions (number of rows and columns of pixels) of the image",
+              "A duplicate copy of the data"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-79",
+            "chapter": 2,
+            "source": "2",
+            "number": 79,
+            "pages": [
+              37
+            ],
+            "stem": "Each student that enrolls at a school is assigned a unique ID number, which is stored as a binary number. The ID numbers increase sequentially by 1 with each newly enrolled student. If the ID number assigned to the last student who enrolled was the binary number 1001 0011, what binary number will be assigned to the next student who enrolls?",
+            "options": [
+              "1001 0100",
+              "1001 0111",
+              "1101 0100",
+              "1101 0111"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-80",
+            "chapter": 2,
+            "source": "2",
+            "number": 80,
+            "pages": [
+              37
+            ],
+            "stem": "A store uses binary numbers to assign a unique binary sequence to each item in its inventory. What is the minimum number of bits required for each binary sequence if the store has between 75 and 100 items in its inventory?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-81",
+            "chapter": 2,
+            "source": "2",
+            "number": 81,
+            "pages": [
+              37
+            ],
+            "stem": "Consider the following numeric values.<br>• Binary 1011<br>• Binary 1101<br>• Decimal 5<br>• Decimal 12 Which of the following lists the values in order from least to greatest?",
+            "options": [
+              "Decimal 5, binary 1011, decimal 12, binary 1101",
+              "Decimal 5, decimal 12, binary 1011, binary 1101",
+              "Decimal 5, binary 1011, binary 1101, decimal 12",
+              "Binary 1011, binary 1101, decimal 5, decimal 12"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-85",
+            "chapter": 2,
+            "source": "2",
+            "number": 85,
+            "pages": [
+              40
+            ],
+            "stem": "Some programming languages use constants, which are variables that are initialized at the beginning of a program and never changed. Which of the following are good uses for a constant?<br>I. To represent the mathematical value (pi) as 3.14<br>II. To represent the current score in a game<br>III. To represent a known value such as the number of days in a week",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-86",
+            "chapter": 2,
+            "source": "2",
+            "number": 86,
+            "pages": [
+              41
+            ],
+            "stem": "A program developed for a Web store represents customer account balances using a format that approximates real numbers. While testing the program, a software developer discovers that some values appear to be mathematically imprecise. Which of the following is the most likely cause of the imprecision?",
+            "options": [
+              "The account balances are represented using a fixed number of bits, resulting in overflow errors.",
+              "The account balances are represented using a fixed number of bits, resulting in round-off errors.",
+              "The account balances are represented using an unlimited number of bits, resulting in overflow errors.",
+              "The account balances are represented using an unlimited number of bits, resulting in round-off errors."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-88",
+            "chapter": 2,
+            "source": "2",
+            "number": 88,
+            "pages": [
+              41,
+              42
+            ],
+            "stem": "A city maintains a database of all traffic tickets that were issued over the past ten years. The tickets are divided into the following two categories.<br>• Moving violations<br>• Nonmoving violations The data recorded for each ticket include only the following information.<br>• The month and year in which the ticket was issued<br>• The category of the ticket Which of the following questions CANNOT be answered using only the information in the database?",
+            "options": [
+              "Have the total number of traffic tickets per year increased each year over the past ten years?",
+              "In the past ten years, were nonmoving violations more likely to occur on a weekend than on a weekday?",
+              "In the past ten years, were there any months when moving violations occurred more often than nonmoving violations?",
+              "In how many of the past ten years were there more than one million moving violations?"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-89",
+            "chapter": 2,
+            "source": "2",
+            "number": 89,
+            "pages": [
+              42
+            ],
+            "stem": "A programmer is developing software for a social media platform. The programmer is planning to use compression when users send attachments to other users. Which of the following is a true statement about the use of compression?",
+            "options": [
+              "Lossless compression of video files will generally save more space than lossy compression of video files.",
+              "Lossless compression of an image file will generally result in a file that is equal in size to the original file.",
+              "Lossy compression of an image file generally provides a greater reduction in transmission time than lossless compression does.",
+              "Sound clips compressed with lossy compression for storage on the platform can be restored to their original quality when they are played."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-90",
+            "chapter": 2,
+            "source": "2",
+            "number": 90,
+            "pages": [
+              42
+            ],
+            "stem": "Which of the following statements about the Internet is true?",
+            "options": [
+              "The Internet is a computer network that uses proprietary communication protocols.",
+              "The Internet is designed to scale to support an increasing number of users.",
+              "The Internet requires all communications to use encryption protocols.",
+              "The Internet uses a centralized system to determine how packets are routed."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-91",
+            "chapter": 2,
+            "source": "2",
+            "number": 91,
+            "pages": [
+              42
+            ],
+            "stem": "An office uses an application to assign work to its staff members. The application uses a binary sequence to represent each of 100 staff members. What is the minimum number of bits needed to assign a unique bit sequence to each staff member?",
+            "options": [
+              "5",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz2-93",
+            "chapter": 2,
+            "source": "2",
+            "number": 93,
+            "pages": [
+              43
+            ],
+            "stem": "An administrator at the school has data about hundreds of students in a particular course. While the administrator does not know the values of each student’s individual assignment scores, the administrator does have the following information for each student.<br>• The student name<br>• A unique student ID number<br>• The number of assignments for the course<br>• The average assignment score before the lowest score was dropped<br>• The course grade after the lowest score was dropped Which of the following CANNOT be determined from this data alone?",
+            "options": [
+              "For a given student, the value of the highest assignment score",
+              "For a given student, the value of the lowest assignment score",
+              "For a given student, the change in course grade as a result of dropping the lowest score",
+              "The proportion of students who improved their course grade as a result of dropping the lowest score"
+            ],
+            "answer": "A",
+            "explanation": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "name": "演算法與程式設計",
+      "english": "Algorithms and Programming",
+      "target": 120,
+      "sources": [
+        "31",
+        "32",
+        "33",
+        "34"
+      ],
+      "sets": [
+        [
+          {
+            "id": "quiz31-8",
+            "chapter": 3,
+            "source": "31",
+            "number": 8,
+            "pages": [
+              10
+            ],
+            "stem": "The variable age is to be used to represent a person’s age, in years. Which of the following is the most appropriate data type for age ?",
+            "options": [
+              "Boolean",
+              "number",
+              "string",
+              "list"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-6",
+            "chapter": 3,
+            "source": "32",
+            "number": 6,
+            "pages": [
+              6,
+              7
+            ],
+            "stem": "A student is creating an algorithm to display the distance between the numbers num1 and num2 on a number line. The following table shows the distance for several different values.\n<table><thead><tr><th>num1</th><th>num2</th><th>Distance</th></tr></thead><tbody><tr><td>5</td><td>2</td><td>3</td></tr><tr><td>1</td><td>8</td><td>7</td></tr><tr><td>−3</td><td>4</td><td>7</td></tr></tbody></table>\nWhich of the following algorithms displays the correct distance for all possible values of num1 and num2?",
+            "options": [
+              "Add num1 and num2 and store the result in sum. Take the absolute value of sum and display the result.",
+              "Subtract num1 from num2 and store the result in diff. Take the absolute value of diff and display the result.",
+              "Take the absolute value of num1 and store it in absNum1. Take the absolute value of num2 and store it in absNum2. Add absNum1 and absNum2 and display the result.",
+              "Take the absolute value of num1 and store it in absNum1. Take the absolute value of num2 and store it in absNum2. Subtract absNum1 from absNum2 and display the result."
+            ],
+            "answer": "B",
+            "explanation": "數線上兩數的距離為 |num2 − num1|，差的絕對值永遠不會是負數。"
+          },
+          {
+            "id": "quiz33-6",
+            "chapter": 3,
+            "source": "33",
+            "number": 6,
+            "pages": [
+              8
+            ],
+            "stem": "Suppose a large group of people in a room were all born in the same year. Each of the following algorithms is intended to identify the people with the earliest birthday, based on month and day. For example, February 10 is earlier than March 5. Which algorithms will identify the correct people?\n&lt;div class=&quot;algorithm&quot;&gt;&lt;b&gt;I.&lt;/b&gt; Everyone stands. Standing people form pairs where possible. In each pair, the person with the earlier birthday remains standing and the other sits down; if tied, both sit down. An unpaired person remains standing. Repeat until one person remains; identify that person.&lt;/div&gt;\n&lt;div class=&quot;algorithm&quot;&gt;&lt;b&gt;II.&lt;/b&gt; Everyone stands. Standing people form pairs with someone they have not previously been paired with where possible. In each pair, the person with the earlier birthday remains standing and the other sits down; if tied, both remain standing. An unpaired person remains standing. Repeat until only one person remains or all standing people have the same birthday; identify everyone still standing.&lt;/div&gt;\n&lt;div class=&quot;algorithm&quot;&gt;&lt;b&gt;III.&lt;/b&gt; Starting with 1, ask if anyone was born on that day of any month. Increase the day until someone responds. If one person responds, identify that person; otherwise identify the responder(s) born in the earliest month.&lt;/div&gt;",
+            "options": [
+              "I only",
+              "II only",
+              "I and II",
+              "II and III"
+            ],
+            "answer": "B",
+            "explanation": "演算法 I 可能把最早生日相同的人全部淘汰；III 先比較日、再比較月，可能誤判。只有 II 能保留所有最早生日的人。"
+          },
+          {
+            "id": "quiz34-5",
+            "chapter": 3,
+            "source": "34",
+            "number": 5,
+            "pages": [
+              6,
+              7
+            ],
+            "stem": "Three different numbers need to be placed in order from least to greatest. For example, 9, 16, 4 should be reordered as 4, 9, 16. Which algorithm can place any three numbers in the correct order?",
+            "options": [
+              "If the first number is greater than the last number, swap them. Then, if the first number is greater than the middle number, swap them.",
+              "If the first number is greater than the middle number, swap them. Then, if the middle number is greater than the last number, swap them.",
+              "If the first number is greater than the middle number, swap them. Then, if the middle number is greater than the last number, swap them. Then, if the first number is greater than the last number, swap them.",
+              "If the first number is greater than the middle number, swap them. Then, if the middle number is greater than the last number, swap them. Then, if the first number is greater than the middle number, swap them."
+            ],
+            "answer": "D",
+            "explanation": "依序比較第 1、2 個，第 2、3 個，再比較第 1、2 個，能讓三個不同數字由小排到大。"
+          },
+          {
+            "id": "quiz31-9",
+            "chapter": 3,
+            "source": "31",
+            "number": 9,
+            "pages": [
+              10
+            ],
+            "stem": "The variable isOpen is to be used to indicate whether or not a store is currently open. Which of the following is the most appropriate data type for isOpen ?",
+            "options": [
+              "Boolean",
+              "number",
+              "string",
+              "list"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-7",
+            "chapter": 3,
+            "source": "32",
+            "number": 7,
+            "pages": [
+              7
+            ],
+            "stem": "A certain game keeps track of the maximum and minimum scores obtained so far. If num represents the most recent score obtained, which of the following algorithms correctly updates the values of the maximum and the minimum?",
+            "options": [
+              "If num is greater than the minimum, set the minimum equal to num. Otherwise, if num is greater than the maximum, set the maximum equal to num.",
+              "If num is less than the minimum, set the minimum equal to num. Otherwise, if num is greater than the maximum, set the maximum equal to num.",
+              "If num is less than the minimum, set the minimum equal to num. Otherwise, if num is less than the maximum, set the maximum equal to num.",
+              "If num is greater than the minimum, set the minimum equal to num. Otherwise, if num is less than the maximum, set the maximum equal to num."
+            ],
+            "answer": "B",
+            "explanation": "新分數比目前最小值小才更新最小值；比目前最大值大才更新最大值。"
+          },
+          {
+            "id": "quiz33-9",
+            "chapter": 3,
+            "source": "33",
+            "number": 9,
+            "pages": [
+              11
+            ],
+            "stem": "The following algorithm simulates flipping a coin 4 times. Consider the goal of determining whether the simulation resulted in an equal number of heads and tails.\n<ol><li>Initialize heads_counter and flip_counter to 0.</li><li>Randomly assign coin_flip either 0 or 1. If coin_flip is 0, the result is heads, so increment heads_counter by 1.</li><li>Increment flip_counter by 1.</li><li>Repeat steps 2 and 3 until flip_counter equals 4.</li></ol>\nFollowing execution of the algorithm, which expression indicates an equal number of heads and tails?",
+            "options": [
+              "coin_flip = 1",
+              "flip_counter = 1",
+              "flip_counter = 2",
+              "heads_counter = 2"
+            ],
+            "answer": "D",
+            "explanation": "總共擲 4 次，正反面一樣多就表示各 2 次，因此 heads_counter 必須等於 2。"
+          },
+          {
+            "id": "quiz34-6",
+            "chapter": 3,
+            "source": "34",
+            "number": 6,
+            "pages": [
+              7
+            ],
+            "stem": "An algorithm will identify the maximum value in a list of one or more integers. Consider these versions:\n&lt;div class=&quot;algorithm&quot;&gt;&lt;b&gt;Algorithm I:&lt;/b&gt; Set max to −1. Iterate through the list. If a data value is greater than max, set max to that data value.&lt;/div&gt;\n&lt;div class=&quot;algorithm&quot;&gt;&lt;b&gt;Algorithm II:&lt;/b&gt; Set max to the first data value. Iterate through the remaining values. If a data value is greater than max, set max to that data value.&lt;/div&gt;\nWhich statement best describes the behavior of the two algorithms?",
+            "options": [
+              "Both algorithms work correctly on all input values.",
+              "Algorithm I always works correctly, but Algorithm II only works correctly when the maximum value is not the first value in the list.",
+              "Algorithm II always works correctly, but Algorithm I only works correctly when the maximum value is greater than or equal to −1.",
+              "Neither algorithm will correctly identify the maximum value when the input contains both positive and negative input values."
+            ],
+            "answer": "C",
+            "explanation": "如果全部數字都小於 −1，演算法 I 會錯誤保留 −1。以第一個元素作為初始最大值，則能處理所有整數清單。"
+          },
+          {
+            "id": "quiz31-10",
+            "chapter": 3,
+            "source": "31",
+            "number": 10,
+            "pages": [
+              11
+            ],
+            "stem": "A teacher is writing a code segment that will use variables to represent a student’s name and whether or not the student is currently absent. Which of the following variables are most appropriate for the code segment?",
+            "options": [
+              "A string variable named s and a Boolean variable named a",
+              "A string variable named s and a numeric variable named n",
+              "A string variable named studentName and a Boolean variable named isAbsent",
+              "A string variable named studentName and a numeric variable named numAbsences"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-8",
+            "chapter": 3,
+            "source": "32",
+            "number": 8,
+            "pages": [
+              8
+            ],
+            "stem": "A programmer is creating an algorithm that will be used to turn on the motor to open the gate in a parking garage. The specifications are as follows.\n<ul><li>The gate should not open when the time is outside of business hours.</li><li>The motor should not turn on unless the gate sensor is activated.</li><li>The motor should not turn on if the gate is already open.</li></ul>\nWhich of the following algorithms can be used to open the gate under the appropriate conditions?",
+            "options": [
+              "Check if the time is outside of business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is closed. If it is, turn on the motor.",
+              "Check if the time is during business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is open. If it is, turn on the motor.",
+              "Check if the time is during business hours. If it is, check if the gate sensor is activated. If it is not, check if the gate is open. If it is not, turn on the motor.",
+              "Check if the time is during business hours. If it is, check if the gate sensor is activated. If it is, check if the gate is closed. If it is, turn on the motor."
+            ],
+            "answer": "D",
+            "explanation": "三個條件必須同時成立：營業時間內、感測器已啟動，而且門目前關閉。"
+          },
+          {
+            "id": "quiz33-14",
+            "chapter": 3,
+            "source": "33",
+            "number": 14,
+            "pages": [
+              16
+            ],
+            "stem": "The following algorithm is intended to determine the average height, in centimeters, of a group of people. Each person has a card, a pencil, and an eraser. Step 2 is missing.\n<ol><li>All people stand up.</li><li>(missing step)</li><li>Standing people form pairs. An unpaired person remains standing and waits until the next opportunity to form pairs.</li><li>In each pair, one person hands their card to the other person and sits down.</li><li>The standing person replaces the top number on their card with the sum of the top numbers on both cards, and the bottom number with the sum of the bottom numbers. The sitting partner’s card is discarded.</li><li>Repeat steps 3–5 until only one person is standing.</li><li>The last person divides the top number by the bottom number to determine the average height.</li></ol>\nWhich of the following can be used as step 2 so that the algorithm works as intended?",
+            "options": [
+              "Each person writes their height, in centimeters, at the top of the card and writes the number 1 at the bottom.",
+              "Each person writes their height, in centimeters, at the top of the card and writes the number 2 at the bottom.",
+              "Each person writes the number 1 at the top of the card and writes their height, in centimeters, at the bottom.",
+              "Each person writes the number 2 at the top of the card and writes their height, in centimeters, at the bottom."
+            ],
+            "answer": "A",
+            "explanation": "上方累加所有人的身高，下方累加人數（每人 1），最後以身高總和除以總人數。"
+          },
+          {
+            "id": "quiz34-7",
+            "chapter": 3,
+            "source": "34",
+            "number": 7,
+            "pages": [
+              7
+            ],
+            "stem": "A programmer is deciding between using a linear or binary search to find a target value in a sorted list. Which of the following is true?",
+            "options": [
+              "In all cases, a binary search of a sorted list requires fewer comparisons than a linear search.",
+              "Generally, the advantage of using a binary search over a linear search increases as the size of the list increases.",
+              "A linear search will generally run faster than a binary search because a linear search requires fewer lines of code to implement.",
+              "Using a linear search is preferable to using a binary search if there is a chance that the target may not be found in the list."
+            ],
+            "answer": "B",
+            "explanation": "二分搜尋每次把範圍減半；清單越大，相較逐項檢查的線性搜尋，通常越有優勢。"
+          },
+          {
+            "id": "quiz31-13",
+            "chapter": 3,
+            "source": "31",
+            "number": 13,
+            "pages": [
+              12
+            ],
+            "stem": "A student is writing a program to model different real-world events using simulations. Which of the following simulations will generate a result that would best be stored using a Boolean variable?",
+            "options": [
+              "A simulation of flipping a fair coin",
+              "A simulation of rolling a fair die (with sides numbered 1 through 6)",
+              "A simulation of the temperature in a location over time",
+              "A simulation of traffic patterns on a road"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-9",
+            "chapter": 3,
+            "source": "32",
+            "number": 9,
+            "pages": [
+              8,
+              9,
+              10
+            ],
+            "stem": "A teacher wants to display the names of 2 students selected at random from a group of 30. Every possible pair of distinct students should be equally likely to be selected. Which algorithm accomplishes this goal?",
+            "options": [
+              "Assign each student a unique integer from 1 to 30. Select and display a student using a random integer from 1 to 15. Then select and display a student using a new random integer from 16 to 30.",
+              "Assign each student a unique integer from 1 to 30. Select and display a student using a random integer from 1 to 30. Then select and display a student using a new random integer from 1 to 30.",
+              "Assign each student a unique integer from 1 to 30. Select and display a student using a random odd integer from 1 to 29. Then select and display a student using a random even integer from 2 to 30.",
+              "Assign each student a unique integer from 1 to 30. Randomly select and display one student. Assign that student 0, and reassign all other students unique integers from 1 to 29. Select and display a student using a random integer from 1 to 29."
+            ],
+            "answer": "D",
+            "explanation": "先從 30 人選 1 人，再從其餘 29 人選 1 人，可避免重複選到同一人，且讓每一組兩人被選中的機會相同。"
+          },
+          {
+            "id": "quiz33-15",
+            "chapter": 3,
+            "source": "33",
+            "number": 15,
+            "pages": [
+              17
+            ],
+            "stem": "A biologist simulates a sample of bacteria using these procedures:\n<table><thead><tr><th>Procedure</th><th>Explanation</th></tr></thead><tbody><tr><td>InitialPopulation()</td><td>Returns the number of bacteria at the start.</td></tr><tr><td>NextPopulation(currPop)</td><td>Returns the population after one hour, based on currPop.</td></tr></tbody></table>\n&lt;pre class=&quot;algorithm&quot;&gt;hours ← 0\nstartPop ← InitialPopulation()\ncurrentPop ← startPop\nREPEAT UNTIL ((hours ≥ 24) OR (currentPop ≤ 0))\n{\n    currentPop ← NextPopulation(currentPop)\n    hours ← hours + 1\n}\nDISPLAY(currentPop - startPop)</pre>\nWhich statements are true?\n&lt;ol type=&quot;I&quot;&gt;<li>The simulation continues until either 24 hours pass or the population reaches 0.</li><li>The simulation displays the average change in population per hour over the simulation.</li><li>The simulation displays the total population at the end of the simulation.</li></ol>",
+            "options": [
+              "I only",
+              "II only",
+              "III only",
+              "I and II"
+            ],
+            "answer": "A",
+            "explanation": "迴圈在時間達到 24 小時或族群數降至 0 時停止。最後顯示的是「最後數量 − 起始數量」，即總變化量，不是每小時平均變化或最終總數。"
+          },
+          {
+            "id": "quiz34-14",
+            "chapter": 3,
+            "source": "34",
+            "number": 14,
+            "pages": [
+              14
+            ],
+            "stem": "The sorted list listOne contains 700 numbers, and the sorted list listTwo contains 900 numbers. Let x be the maximum number of list elements examined by a binary search in listOne, and y the corresponding maximum for listTwo. Which statement about x and y is true?",
+            "options": [
+              "x is approximately equal to y.",
+              "x is approximately 10 less than y.",
+              "x is approximately 13 less than y.",
+              "x is approximately 200 less than y."
+            ],
+            "answer": "A",
+            "explanation": "二分搜尋每次把範圍減半。700 與 900 都小於 1024（2¹⁰），最壞情況所需的比較次數都約為 10 次。"
+          },
+          {
+            "id": "quiz31-14",
+            "chapter": 3,
+            "source": "31",
+            "number": 14,
+            "pages": [
+              12
+            ],
+            "stem": "Which of the following is a benefit of using a list as a data abstraction in a program?",
+            "options": [
+              "Lists often allow their size to be easily updated to hold as many data values as needed.",
+              "Lists convert all elements to strings so that they can be inspected character-by-character.",
+              "Lists prevent duplicate data values from appearing in the list.",
+              "Lists are used to store all input data so that there is a running record of all user input."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-10",
+            "chapter": 3,
+            "source": "32",
+            "number": 10,
+            "pages": [
+              10
+            ],
+            "stem": "An algorithm has been developed to compute the sum of all elements in a list of integers. Which programming structure must be added so that the new algorithm computes the sum of only the even integers in the list?",
+            "options": [
+              "Iteration",
+              "Searching",
+              "Selection",
+              "Sequencing"
+            ],
+            "answer": "C",
+            "explanation": "原本已能遍歷並加總所有元素；需要加入條件判斷（selection），只在數字為偶數時進行加總。"
+          },
+          {
+            "id": "quiz33-16",
+            "chapter": 3,
+            "source": "33",
+            "number": 16,
+            "pages": [
+              17
+            ],
+            "stem": "A video-streaming website counts how many times each video has been played since it was added. The count is updated every time a video is played and displayed beside the video.\n<p>The most popular video once had a count of about two million. Later, its count became a seven-digit negative number, while other videos’ counts were displayed correctly. What is the most likely explanation?</p>",
+            "options": [
+              "The video’s count became larger than the maximum value allowed by the data type used to store it.",
+              "The mathematical operations used to calculate the count caused a rounding error.",
+              "The software failed because too many videos were played simultaneously by too many users.",
+              "The software contained a sampling error when using digital data to approximate the analog count."
+            ],
+            "answer": "A",
+            "explanation": "儲存計數的整數型別有容量上限；超出範圍可能發生溢位，導致原本應為正數的計數變成負數。"
+          },
+          {
+            "id": "quiz34-15",
+            "chapter": 3,
+            "source": "34",
+            "number": 15,
+            "pages": [
+              14
+            ],
+            "stem": "A sorted list of numbers contains 200 elements. Which of the following is closest to the maximum number of list elements that will need to be examined when performing a binary search for a particular value in the list?",
+            "options": [
+              "5",
+              "8",
+              "100",
+              "200"
+            ],
+            "answer": "B",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz31-15",
+            "chapter": 3,
+            "source": "31",
+            "number": 15,
+            "pages": [
+              12,
+              13
+            ],
+            "stem": "A programmer has a need to round many numeric values to the nearest integer. Which of the following best explains the benefit of using a list as a data abstraction in this situation?",
+            "options": [
+              "Keeping the numeric values in a list makes it easier to round a number to the nearest integer.",
+              "Keeping the numeric values in a list makes it easier to apply the same computation to every data element.",
+              "Keeping the numeric values in a list makes it easier to prevent a program from unintentionally changing the value of a variable.",
+              "Keeping the numeric values in a list makes it easier to prevent a program from attempting to access an index beyond the length of the list."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-14",
+            "chapter": 3,
+            "source": "32",
+            "number": 14,
+            "pages": [
+              12
+            ],
+            "stem": "A programmer realizes that the roles of goats and sheep have been reversed throughout a video game’s user manual. She wants to replace all occurrences of “goats” with “sheep” and all occurrences of “sheep” with “goats.” The word “foxes” does not occur in the original text. Which algorithm accomplishes this goal?",
+            "options": [
+              "First replace all “goats” with “sheep.” Then replace all “sheep” with “goats.”",
+              "First replace all “goats” with “sheep.” Then replace all “sheep” with “goats.” Last replace all “foxes” with “sheep.”",
+              "First replace all “goats” with “foxes.” Then replace all “sheep” with “goats.” Last replace all “foxes” with “sheep.”",
+              "First replace all “goats” with “foxes.” Then replace all “foxes” with “sheep.” Last replace all “sheep” with “goats.”"
+            ],
+            "answer": "C",
+            "explanation": "先使用原文中不存在的 foxes 暫存 goats，才能在互換兩個字詞時避免新舊內容混在一起。"
+          },
+          {
+            "id": "quiz33-36",
+            "chapter": 3,
+            "source": "33",
+            "number": 36,
+            "pages": [
+              37,
+              38
+            ],
+            "stem": "A list of numbers has n elements, indexed from 1 to n. The following algorithm is intended to display true if the value target appears in the list more than once and to display false otherwise. The algorithm uses the variables position and count. Steps 4 and 5 are missing. Step 1:Set count to 0 and position to 1. Step 2:If the value of the element at index position is equal to target, increase the value of count by 1. Step 3:Increase the value of position by 1. Step 4:(missing step) Step 5:(missing step) Which of the following could be used to replace steps 4 and 5 so that the algorithm works as intended? Step 4 Repeat steps 2 and 3 until the value of position is greater than n.",
+            "options": [
+              "Step 5 If count is greater than or equal to 2, display true. Otherwise, display false. Step 4 Repeat steps 2 and 3 until the value of position is greater than n. Step 5",
+              "If count is greater than or equal to position, display true. Otherwise, display false. Step 4 Repeat steps 2 and 3 until the value of count is greater than 2. Step 5",
+              "If position is greater than or equal to n, display true. Otherwise, display false. Step 4 Repeat steps 2 and 3 until the value of count is greater than n.",
+              "Step 5 If count is greater than or equal to 2, display true. Otherwise, display false."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-16",
+            "chapter": 3,
+            "source": "34",
+            "number": 16,
+            "pages": [
+              14
+            ],
+            "stem": "A sorted list of numbers contains 500 elements. Which of the following is closest to the maximum number of list elements that will be examined when performing a binary search for a value in the list?",
+            "options": [
+              "10",
+              "50",
+              "250",
+              "500"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz31-17",
+            "chapter": 3,
+            "source": "31",
+            "number": 17,
+            "pages": [
+              13
+            ],
+            "stem": "Assume that both lists and strings are indexed starting with index 1. The list wordList has the following contents. [&quot;abc&quot;, &quot;def\\&quot;, &quot;ghi&quot;, &quot;jkl&quot;] Let myWord be the element at index 3 of wordList. Let myChar be the character at index 2 of myWord. What is the value of myChar ?",
+            "options": [
+              "\"e\"",
+              "\"f\\\"",
+              "\"h\"",
+              "\"i\""
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-20",
+            "chapter": 3,
+            "source": "32",
+            "number": 20,
+            "pages": [
+              16
+            ],
+            "stem": "A sorted list of numbers contains 128 elements. Which of the following is closest to the maximum number of list elements that can be examined when performing a binary search for a value in the list?",
+            "options": [
+              "2",
+              "8",
+              "64",
+              "128"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz33-41",
+            "chapter": 3,
+            "source": "33",
+            "number": 41,
+            "pages": [
+              43
+            ],
+            "stem": "There are 32 students standing in a classroom. Two different algorithms are given for finding the average height of the students. Algorithm A Step 1: All students stand. Step 2: A randomly selected student writes his or her height on a card and is seated. Step 3: A randomly selected standing student adds his or her height to the value on the card, records the new value on the card, and is seated. The previous value on the card is erased. Step 4: Repeat step 3 until no students remain standing. Step 5: The sum on the card is divided by 32. The result is given to the teacher. Algorithm B Step 1: All students stand. Step 2: Each student is given a card. Each student writes his or her height on the card. Step 3: Standing students form random pairs at the same time. Each pair adds the numbers written on their cards and writes the result on one student’s card; the other student is seated. The previous value on the card is erased. Step 4: Repeat step 3 until one student remains standing. Step 5: The sum on the last student’s card is divided by 32. The result is given to the teacher. Which of the following statements is true?",
+            "options": [
+              "Algorithm A always calculates the correct average, but Algorithm B does not.",
+              "Algorithm B always calculates the correct average, but Algorithm A does not.",
+              "Both Algorithm A and Algorithm B always calculate the correct average.",
+              "Neither Algorithm A nor Algorithm B calculates the correct average."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-18",
+            "chapter": 3,
+            "source": "34",
+            "number": 18,
+            "pages": [
+              15
+            ],
+            "stem": "A time stamp indicates the date and time a measurement was taken. A data scientist has a list of 10,000 time stamps in chronological order. Which is closest to the maximum number of values that must be examined when performing a binary search for a value in the list?",
+            "options": [
+              "10",
+              "15",
+              "5,000",
+              "10,000"
+            ],
+            "answer": "B",
+            "explanation": "二分搜尋的比較次數約為 log₂(n)。10,000 介於 2¹³ 與 2¹⁴ 之間，約需 14 次，最接近的選項是 15。"
+          },
+          {
+            "id": "quiz31-24",
+            "chapter": 3,
+            "source": "31",
+            "number": 24,
+            "pages": [
+              18
+            ],
+            "stem": "The list wordList contains a list of 10 string values. Which of the following is a valid index for the list?",
+            "options": [
+              "-1",
+              "\"hello\"",
+              "2.5",
+              "4"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-30",
+            "chapter": 3,
+            "source": "32",
+            "number": 30,
+            "pages": [
+              22,
+              23
+            ],
+            "stem": "A list of numbers has n elements, indexed from 1 to n. The following algorithm is intended to display the number of elements in the list that have a value greater than 100. The algorithm uses the variables count and position. Steps 3 and 4 are missing. Step 1Set count to 0 and position to 1. Step 2If the value of the element at index position is greater than 100, increase the value of count by 1. Step 3(missing step) Step 4(missing step) Step 5Display the value of count. Which of the following could be used to replace steps 3 and 4 so that the algorithm works as intended? Step 3 Increase the value of position by 1.",
+            "options": [
+              "Step 4 Repeat steps 2 and 3 until the value of count is greater than 100. Step 3 Increase the value of position by 1.",
+              "Step 4 Repeat steps 2 and 3 until the value of position is greater than n. Step 3 Repeat step 2 until the value of count is greater than 100.",
+              "Step 4 Increase the value of position by 1. Step 3 Repeat step 2 until the value of position is greater than n.",
+              "Step 4 Increase the value of count by 1."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-30",
+            "chapter": 3,
+            "source": "34",
+            "number": 30,
+            "pages": [
+              23
+            ],
+            "stem": "For which of the following lists can a binary search be used to search for an item in the list?<br>I. [&quot;blue&quot;, &quot;green&quot;, &quot;jade&quot;, &quot;mauve&quot;, &quot;pink&quot;]<br>II. [5, 5, 5, 5, 6, 7, 8, 8, 8]<br>III. [10, 5, 3, 2, -4, -8, -9, -12]",
+            "options": [
+              "I only",
+              "III only",
+              "I and III only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-40",
+            "chapter": 3,
+            "source": "32",
+            "number": 40,
+            "pages": [
+              28
+            ],
+            "stem": "Businesses have the ability to target advertisements to different groups of people who use RunRoutr. Which of the following groups is LEAST likely to receive targeted advertisements?",
+            "options": [
+              "Individuals who appear on each other’s contact lists",
+              "Individuals who are interested in running and fitness",
+              "Individuals who sign up for a premium account",
+              "Individuals whose running routes begin or end near a particular business location"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-38",
+            "chapter": 3,
+            "source": "34",
+            "number": 38,
+            "pages": [
+              29
+            ],
+            "stem": "The procedure BinarySearch (numList, target) correctly implements a binary search algorithm on the list of numbers numList. The procedure returns an index where target occurs in numList, or -1 if target does not occur in numList. Which of the following conditions must be met in order for the procedure to work as intended?",
+            "options": [
+              "The length of numList must be even.",
+              "The list numList must not contain any duplicate values.",
+              "The values in numList must be in sorted order.",
+              "The value of target must not be equal to -1."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-46",
+            "chapter": 3,
+            "source": "32",
+            "number": 46,
+            "pages": [
+              34
+            ],
+            "stem": "Which of the following best exemplifies the use of multifactor authentication to protect an online banking system?",
+            "options": [
+              "When a user resets a password for an online bank account, the user is required to enter the new password twice.",
+              "When multiple people have a shared online bank account, they are each required to have their own unique username and password.",
+              "After entering a password for an online bank account, a user must also enter a code that is sent to the user’s phone via text message.",
+              "An online bank requires users to change their account passwords multiple times per year without using the same password twice."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-46",
+            "chapter": 3,
+            "source": "34",
+            "number": 46,
+            "pages": [
+              35
+            ],
+            "stem": "A large number of genetic codes are stored as binary values in a list. Which one of the following conditions must be true in order for a researcher to obtain the correct result when using a binary search algorithm to determine if a given genetic code is in the list?",
+            "options": [
+              "The genetic codes must be converted from binary to decimal numbers.",
+              "The list must be sorted based on the genetic code values.",
+              "The number of genetic code values in the list must be a power of 2.",
+              "The number of genetic code values in the list must be even."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-47",
+            "chapter": 3,
+            "source": "32",
+            "number": 47,
+            "pages": [
+              34
+            ],
+            "stem": "In a certain country, a person must be at least 16 years old to drive a car and must be at least 18 years old to vote. The variable age represents the age of a person as an integer. Which of the following expressions evaluates to true if the person is old enough to drive but not old enough to vote, and evaluates to false otherwise?<br>I. (age ≥ 16) AND (age ≤ 18)<br>II. (age ≥ 16) AND (NOT(age ≥ 18))<br>III. (age &lt; 18) AND (NOT(age &lt; 16))",
+            "options": [
+              "II only",
+              "I and II only",
+              "I and III only",
+              "II and III only"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz34-48",
+            "chapter": 3,
+            "source": "34",
+            "number": 48,
+            "pages": [
+              36
+            ],
+            "stem": "Suppose that a list of numbers contains values [-4, -1, 1, 5, 2, 10, 10, 15, 30]. Which of the following best explains why a binary search should NOT be used to search for an item in this list?",
+            "options": [
+              "The list contains both positive and negative elements.",
+              "The elements of the list are not sorted.",
+              "The list contains an odd number of elements.",
+              "The list contains duplicate elements."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-48",
+            "chapter": 3,
+            "source": "32",
+            "number": 48,
+            "pages": [
+              34
+            ],
+            "stem": "Which of the following is an example of a phishing attack?",
+            "options": [
+              "Loading malicious software onto a user’s computer in order to secretly gain access to sensitive information",
+              "Flooding a user’s computer with e-mail requests in order to cause the computer to crash",
+              "Gaining remote access to a user’s computer in order to steal user IDs and passwords",
+              "Using fraudulent e-mails in order to trick a user into voluntarily providing sensitive information"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-49",
+            "chapter": 3,
+            "source": "32",
+            "number": 49,
+            "pages": [
+              35
+            ],
+            "stem": "The following algorithm is intended to take a positive integer as input and display its individual digits in order from right to left. For example, if the input is 512, the algorithm should produce the output 2 1 5. Step 3 of the algorithm is missing. Step 1: Input a positive integer from the user and store it in the variable number. Step 2: Divide number by 10 and record the integer quotient and the remainder. The integer quotient is the quotient with any part after the decimal point dropped. For example, when 127 is divided by 10, the quotient is 12.7, the integer quotient is 12 and the remainder is 7. Step 3: (missing step) Step 4: Repeat steps 2 and 3 until number is 0. Which of the following can be used as step 3 so that the algorithm works as intended?",
+            "options": [
+              "Step 3: Display the remainder of number divided by 10 and store the remainder in number.",
+              "Step 3: Display the remainder of number divided by 10 and store the integer quotient in number.",
+              "Step 3: Display the integer quotient of number divided by 10 and store the remainder in number.",
+              "Step 3: Display the integer quotient of number divided by 10 and store the integer quotient in number."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz32-62",
+            "chapter": 3,
+            "source": "32",
+            "number": 62,
+            "pages": [
+              47,
+              48
+            ],
+            "stem": "In the following expression, the variable truckWeight has the value 70000 and the variable weightLimit has the value 80000. truckWeight &lt; weightLimit What value does the expression evaluate to?",
+            "options": [
+              "70000",
+              "80000",
+              "true",
+              "false"
+            ],
+            "answer": "C",
+            "explanation": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "name": "電腦系統與網路",
+      "english": "Computer Systems and Networks",
+      "target": 80,
+      "sources": [
+        "4"
+      ],
+      "sets": [
+        [
+          {
+            "id": "quiz4-2",
+            "chapter": 4,
+            "source": "4",
+            "number": 2,
+            "pages": [
+              1
+            ],
+            "stem": "Which of the following best describes the ability of parallel computing solutions to improve efficiency?",
+            "options": [
+              "Any problem that can be solved sequentially can be solved using a parallel solution in approximately half the time.",
+              "Any solution can be broken into smaller and smaller parallel portions, making efficiency improvements theoretically limitless as long as enough processors are available.",
+              "The efficiency of parallel computing solutions is rarely improved over sequential computing solutions.",
+              "The efficiency of a solution that can be broken into parallel portions is still limited by a sequential portion."
+            ],
+            "answer": "D",
+            "explanation": "程式中必須依序執行的部分仍需要時間，因此即使增加處理器，整體加速也有上限。"
+          },
+          {
+            "id": "quiz4-3",
+            "chapter": 4,
+            "source": "4",
+            "number": 3,
+            "pages": [
+              1
+            ],
+            "stem": "According to the domain name system (DNS), which of the following is a subdomain of the domain example.com?",
+            "options": [
+              "about.example.com",
+              "example.co.uk",
+              "example.com.org",
+              "example.org"
+            ],
+            "answer": "A",
+            "explanation": "子網域加在原網域左側，因此 about.example.com 是 example.com 的子網域。"
+          },
+          {
+            "id": "quiz4-4",
+            "chapter": 4,
+            "source": "4",
+            "number": 4,
+            "pages": [
+              1
+            ],
+            "stem": "Which of the following best describes a challenge involved in using a parallel computing solution?",
+            "options": [
+              "A parallel solution may not be appropriate for an algorithm in which each step requires the output from the preceding step.",
+              "A parallel solution may not be appropriate for an algorithm in which the same formula is applied to many numeric data elements.",
+              "A parallel solution may not be appropriate for an algorithm that can easily be broken into small independent tasks.",
+              "A parallel solution may not be appropriate for an algorithm that searches for occurrences of a keyword in many documents."
+            ],
+            "answer": "A",
+            "explanation": "如果每一步都必須等前一步的結果，這些步驟便無法任意同時執行，較難以平行運算加速。"
+          },
+          {
+            "id": "quiz4-5",
+            "chapter": 4,
+            "source": "4",
+            "number": 5,
+            "pages": [
+              2
+            ],
+            "stem": "A computer has two processors that can run in parallel. The table shows the time either processor takes to execute four independent processes.\n<table><thead><tr><th>Process</th><th>Execution time</th></tr></thead><tbody><tr><td>W</td><td>20 seconds</td></tr><tr><td>X</td><td>30 seconds</td></tr><tr><td>Y</td><td>45 seconds</td></tr><tr><td>Z</td><td>50 seconds</td></tr></tbody></table>\nHow should the program assign the four processes to optimize execution time?",
+            "options": [
+              "Assign W and X to one processor, and Y and Z to the other.",
+              "Assign W and Y to one processor, and X and Z to the other.",
+              "Assign W and Z to one processor, and X and Y to the other.",
+              "Assign Z to one processor, and W, X, and Y to the other."
+            ],
+            "answer": "C",
+            "explanation": "W + Z = 70 秒，X + Y = 75 秒，整體在 75 秒完成，比其他分配方式更快。"
+          },
+          {
+            "id": "quiz4-6",
+            "chapter": 4,
+            "source": "4",
+            "number": 6,
+            "pages": [
+              2
+            ],
+            "stem": "A user enters a web address in a browser, and a request for a file is sent to a web server. Which of the following best describes how the file is sent to the user?",
+            "options": [
+              "The file is broken into packets for transmission. The packets must be reassembled upon receipt.",
+              "The file is broken into packets. The browser must request each packet in order until all packets have been received.",
+              "The server attempts to connect directly to the user’s computer. If successful, the entire file is sent. Otherwise, an error message is sent.",
+              "The server repeatedly attempts to connect directly to the user’s computer. Once connected, the entire file is sent."
+            ],
+            "answer": "A",
+            "explanation": "檔案會拆成封包傳送，再由接收端重組；瀏覽器不需要依序個別請求每一個封包。"
+          },
+          {
+            "id": "quiz4-7",
+            "chapter": 4,
+            "source": "4",
+            "number": 7,
+            "pages": [
+              2
+            ],
+            "stem": "Internet Protocol version 6 (IPv6) was introduced to replace IPv4. Which of the following best describes a benefit of IPv6 over IPv4?",
+            "options": [
+              "IPv6 addresses are shorter than IPv4 addresses, allowing faster packet routing.",
+              "IPv6 allows more addresses than IPv4, allowing more devices to connect to the Internet.",
+              "IPv6 eliminates hierarchy in addressing, making addresses easier to use.",
+              "IPv6 lets users bypass older security protocols to send data peer-to-peer without routers."
+            ],
+            "answer": "B",
+            "explanation": "IPv6 的位址空間比 IPv4 大得多，可提供更多裝置使用的 IP 位址。"
+          },
+          {
+            "id": "quiz4-8",
+            "chapter": 4,
+            "source": "4",
+            "number": 8,
+            "pages": [
+              2,
+              3
+            ],
+            "stem": "Which of the following best describes a direct benefit in using redundant routing on the Internet?",
+            "options": [
+              "Redundancy enables messages to be transmitted with as few packets as possible.",
+              "Redundancy enables network devices to communicate with as few network connections as possible.",
+              "Redundancy often allows messages to be sent on the network even if some network devices or connections have failed.",
+              "Redundancy prevents network communications from being intercepted by unauthorized individuals."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-9",
+            "chapter": 4,
+            "source": "4",
+            "number": 9,
+            "pages": [
+              3
+            ],
+            "stem": "Which of the following is a characteristic of the fault-tolerant nature of routing on the Internet?",
+            "options": [
+              "The ability to use a hierarchical naming system to avoid naming conflicts",
+              "The ability to provide data transmission even when some connections have failed",
+              "The ability to resolve errors in domain name system (DNS) lookups",
+              "The ability to use multiple protocols such as hypertext transfer protocol (HTTP), Internet protocol (IP), and simple mail transfer protocol (SMTP) to transfer data"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-11",
+            "chapter": 4,
+            "source": "4",
+            "number": 11,
+            "pages": [
+              4
+            ],
+            "stem": "Which of the following best explains how data is typically assembled in packets for transmission over the Internet?",
+            "options": [
+              "Each packet contains data to be transmitted, along with metadata containing information used for routing the data.",
+              "Each packet contains an encrypted version of the data to be transmitted, along with metadata containing the key needed to decrypt the data.",
+              "Each packet contains only the metadata used to establish a direct connection so that the data can be transmitted.",
+              "Each packet contains multiple data files bundled together, along with metadata describing how to categorize each data file."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-12",
+            "chapter": 4,
+            "source": "4",
+            "number": 12,
+            "pages": [
+              5
+            ],
+            "stem": "A computer has two identical processors that can run in parallel. The table shows how long either processor takes to execute two independent processes.\n<table><thead><tr><th>Process</th><th>Execution time</th></tr></thead><tbody><tr><td>P</td><td>30 seconds</td></tr><tr><td>Q</td><td>45 seconds</td></tr></tbody></table>\nWhat is the approximate difference in execution time between running the processes in parallel and running them one after the other on a single processor?",
+            "options": [
+              "15 seconds",
+              "30 seconds",
+              "45 seconds",
+              "75 seconds"
+            ],
+            "answer": "B",
+            "explanation": "依序執行需 30 + 45 = 75 秒；平行執行需 45 秒，因此節省 30 秒。"
+          },
+          {
+            "id": "quiz4-15",
+            "chapter": 4,
+            "source": "4",
+            "number": 15,
+            "pages": [
+              5,
+              6
+            ],
+            "stem": "Which of the following best explains how fault tolerance in a network is achieved?",
+            "options": [
+              "By providing high-bandwidth connections between devices, enabling data packets to be transmitted as quickly as possible",
+              "By providing multiple paths between devices, enabling routing to occur even in the presence of a failed component",
+              "By providing open network protocols, ensuring that all devices on the network are interacting in a standard way",
+              "By providing software to monitor all network traffic, ensuring that data packets are sent and received in the proper order"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-16",
+            "chapter": 4,
+            "source": "4",
+            "number": 16,
+            "pages": [
+              6
+            ],
+            "stem": "Which of the following best explains how messages are typically transmitted over the Internet?",
+            "options": [
+              "The message is broken into packets that are transmitted in a specified order. Each packet must be received in the order it was sent for the message to be correctly reassembled by the recipient’s device.",
+              "The message is broken into packets. The packets can be received in any order and still be reassembled by the recipient’s device.",
+              "The message is broken into two packets. One packet contains the data to be transmitted and the other packet contains metadata for routing the data to the recipient’s device.",
+              "The message is transmitted as a single file and received in whole by the recipient’s device."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-17",
+            "chapter": 4,
+            "source": "4",
+            "number": 17,
+            "pages": [
+              6
+            ],
+            "stem": "Which of the following statements correctly explain how the Internet is able to facilitate communication at a large scale?<br>I. A central monitoring computer is used to track and maintain the connections of the Internet.<br>II. Data is routed between points in multiple ways so that if a connection fails, the data can be rerouted around the inoperative connections.<br>III. Protocols for packets and routing are used so that computers from different manufacturers can communicate in a standard way.",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-18",
+            "chapter": 4,
+            "source": "4",
+            "number": 18,
+            "pages": [
+              6
+            ],
+            "stem": "Which of the following best explains how the Internet is a fault-tolerant system?",
+            "options": [
+              "The Internet is fault-tolerant because cybercriminals can conceal their actions, allowing them the ability to carry out faulty actions without leaving a trace.",
+              "The Internet is fault-tolerant because there are usually multiple paths between devices, allowing messages to sometimes be sent even when parts of the network fail.",
+              "The Internet is fault-tolerant because users can transmit messages using a variety of different protocols, allowing them to use devices from any manufacturer.",
+              "The Internet is fault-tolerant because users usually understand and accept the fact that servers sometimes fail, allowing network engineers to repair faulty devices as quickly as possible."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-19",
+            "chapter": 4,
+            "source": "4",
+            "number": 19,
+            "pages": [
+              6,
+              7
+            ],
+            "stem": "Which of the following best explains what happens when a new device is connected to the Internet?",
+            "options": [
+              "A device driver is assigned to the device.",
+              "An Internet Protocol (IP) address is assigned to the device.",
+              "A packet number is assigned to the device.",
+              "A Web site is assigned to the device."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-20",
+            "chapter": 4,
+            "source": "4",
+            "number": 20,
+            "pages": [
+              7
+            ],
+            "stem": "Which of the following is a true statement about Internet communication?",
+            "options": [
+              "Devices from different manufacturers are required to run the same operating system to communicate over the Internet.",
+              "Every device connected to the Internet is assigned a digital certificate by a certificate authority.",
+              "Every device connected to the Internet is assigned an Internet protocol (IP) address.",
+              "Every device connected to the Internet requires a high-bandwidth connection to enable redundant routing to each device."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-21",
+            "chapter": 4,
+            "source": "4",
+            "number": 21,
+            "pages": [
+              7
+            ],
+            "stem": "Which of the following best describes the role of the Internet Engineering Task Force (IETF) ?",
+            "options": [
+              "Developing standards and protocols for Internet communication",
+              "Preventing copyrighted materials from being illegally distributed online",
+              "Preventing malicious software from being distributed online",
+              "Verifying the ownership of encrypted keys used in secured messages"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-22",
+            "chapter": 4,
+            "source": "4",
+            "number": 22,
+            "pages": [
+              7
+            ],
+            "stem": "Which of the following explains a benefit of using open standards and protocols for Internet communication?",
+            "options": [
+              "Open standards and protocols allow different manufacturers and developers to build hardware and software that can communicate with hardware and software on the rest of the network.",
+              "Open standards and protocols provide ways for users to eliminate the latency of messages they send on the Internet.",
+              "Open standards and protocols allow users to freely share or reuse material found on the Internet for noncommercial purposes.",
+              "Open standards and protocols prevent developers from releasing software that contains errors."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-23",
+            "chapter": 4,
+            "source": "4",
+            "number": 23,
+            "pages": [
+              7,
+              8
+            ],
+            "stem": "Which of the following best explains how IP addresses are assigned?",
+            "options": [
+              "As a new device is connected to the Internet, it is assigned an IP address to enable communication on the network.",
+              "IP addresses are assigned only to servers that host Web sites; user devices do not require an IP address.",
+              "New devices are connected to the Internet without an IP address, but are eventually assigned an IP address once they can be verified by a certificate authority.",
+              "New devices are connected to the Internet without an IP address; IP addresses are assigned only for encrypted communications."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-26",
+            "chapter": 4,
+            "source": "4",
+            "number": 26,
+            "pages": [
+              9
+            ],
+            "stem": "What is the minimum number of connections that must be broken or removed in the network before computer E can no longer communicate with computer F?",
+            "options": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "answer": "C",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz4-27",
+            "chapter": 4,
+            "source": "4",
+            "number": 27,
+            "pages": [
+              9
+            ],
+            "stem": "Which of the following statements about security in the network is true?<br>I. Computers A and D need to communicate with at least two additional computers in the network in order to communicate with each other.<br>II. Computers B and C can communicate with each other without additional computers being aware of the communication.",
+            "options": [
+              "I only",
+              "II only",
+              "I and II",
+              "Neither I nor II"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-29",
+            "chapter": 4,
+            "source": "4",
+            "number": 29,
+            "pages": [
+              10
+            ],
+            "stem": "Which of the following is a primary benefit of making a computing system fault-tolerant?",
+            "options": [
+              "If one component of the system fails, users of the system can often still access it.",
+              "If one component of the system is hacked, no information will be stolen.",
+              "If the system becomes too expensive, making it fault-tolerant will save money.",
+              "If the system cannot operate efficiently, making it fault-tolerant will speed up its operation."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-30",
+            "chapter": 4,
+            "source": "4",
+            "number": 30,
+            "pages": [
+              10
+            ],
+            "stem": "Which of the following is a primary reason for the use of open protocols on the Internet?",
+            "options": [
+              "Open protocols allow devices to specify how data packets are to be routed on the Internet in advance.",
+              "Open protocols ensure that all data transmission on the Internet is kept secure.",
+              "Open protocols ensure that all Internet users are provided connections with equal bandwidth.",
+              "Open protocols provide a way to standardize data transmission between different devices."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-32",
+            "chapter": 4,
+            "source": "4",
+            "number": 32,
+            "pages": [
+              11
+            ],
+            "stem": "In which of the configurations is it possible to have redundant routing between devices Q and V?",
+            "options": [
+              "Configuration I only",
+              "Configuration II only",
+              "Both configuration I and configuration II",
+              "Neither configuration I nor configuration II"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-33",
+            "chapter": 4,
+            "source": "4",
+            "number": 33,
+            "pages": [
+              11
+            ],
+            "stem": "In configuration I, what is the minimum number of connections that must be broken or removed before device T can no longer communicate with device U?",
+            "options": [
+              "One",
+              "Two",
+              "Three",
+              "Four"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-35",
+            "chapter": 4,
+            "source": "4",
+            "number": 35,
+            "pages": [
+              12
+            ],
+            "stem": "Which of the following best explains the relationship between the Internet and the World Wide Web?",
+            "options": [
+              "Both the Internet and the World Wide Web refer to the same interconnected network of devices.",
+              "The Internet is an interconnected network of data servers, and the World Wide Web is a network of user devices that communicates with the data servers.",
+              "The Internet is a local network of interconnected devices, and the World Wide Web is a global network that connects the local networks with each other.",
+              "The Internet is a network of interconnected networks, and the World Wide Web is a system of linked pages, programs, and files that is accessed via the Internet."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-37",
+            "chapter": 4,
+            "source": "4",
+            "number": 37,
+            "pages": [
+              13
+            ],
+            "stem": "What is the minimum number of connections that must be broken or removed before device B can no longer communicate with device C?",
+            "options": [
+              "Three",
+              "Four",
+              "Five",
+              "Six"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-38",
+            "chapter": 4,
+            "source": "4",
+            "number": 38,
+            "pages": [
+              13
+            ],
+            "stem": "Which of the following statements is true about the network?",
+            "options": [
+              "Information sent from device A to device D can use at most two unique paths.",
+              "Information sent from device A to device I will pass through at most four other devices.",
+              "If devices B and F fail, then device A will not be able to communicate with device G.",
+              "If devices C and F fail, then device D will not be able to communicate with device H."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz4-44",
+            "chapter": 4,
+            "source": "4",
+            "number": 44,
+            "pages": [
+              16
+            ],
+            "stem": "Two computers are built by different manufacturers. One is running a Web server and the other is running a Web browser. Which of the following best describes the ability of the two computers to communicate with each other across the Internet?",
+            "options": [
+              "The computers cannot communicate because different manufacturers use different communication protocols.",
+              "The computers can communicate, but additional hardware is needed to convert data packets from one computer’s protocol to the other computer’s protocol.",
+              "The computers can communicate directly only if the messages consist of text; other formats cannot be interpreted across computers.",
+              "The computers can communicate directly because Internet communication uses standard protocols."
+            ],
+            "answer": "D",
+            "explanation": ""
+          }
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "name": "運算的影響",
+      "english": "Impact of Computing",
+      "target": 80,
+      "sources": [
+        "5"
+      ],
+      "sets": [
+        [
+          {
+            "id": "quiz5-1",
+            "chapter": 5,
+            "source": "5",
+            "number": 1,
+            "pages": [
+              1
+            ],
+            "stem": "A bank customer receives an e-mail from a sender claiming to be a bank employee. The e-mail asks the customer to provide personal information and to call a phone number if he or she has any questions. The customer suspects the e-mail might be a phishing attempt. Which of the following responses is most likely to be a privacy risk for the bank customer?",
+            "options": [
+              "Calling the bank at its official phone number to ask whether the request for personal information is legitimate",
+              "Calling the phone number given in the e-mail and providing the personal information over the phone",
+              "Checking that the domain name of the sender’s e-mail address is associated with the bank",
+              "Conducting aWeb search to see if other people have received similar requests for personal information"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-2",
+            "chapter": 5,
+            "source": "5",
+            "number": 2,
+            "pages": [
+              1
+            ],
+            "stem": "A city government is attempting to reduce the digital divide between groups with differing access to computing and the Internet. Which of the following activities is LEAST likely to be effective in this purpose?",
+            "options": [
+              "Holding basic computer classes at community centers",
+              "Providing free wireless Internet connections at locations in low-income neighborhoods",
+              "Putting all government forms on the city Web site",
+              "Requiring that every city school has computers that meet a minimum hardware and software standard"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-3",
+            "chapter": 5,
+            "source": "5",
+            "number": 3,
+            "pages": [
+              1
+            ],
+            "stem": "Which of the following actions is most likely to help reduce the digital divide?",
+            "options": [
+              "Adding a requirement that all users of a popular social media site link their accounts with a phone number.",
+              "Deploying satellites and other infrastructure to provide inexpensive Internet access to remote areas of Earth",
+              "Digitizing millions of books from university libraries, making their full text available online",
+              "Offering improved Internet connections to Internet users who are willing to pay a premium fee for more bandwidth"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-4",
+            "chapter": 5,
+            "source": "5",
+            "number": 4,
+            "pages": [
+              1
+            ],
+            "stem": "A state government is attempting to reduce the digital divide. Which of the following activities has the greatest potential to contribute to the digital divide rather than reducing it?",
+            "options": [
+              "Providing programs that focus on technology literacy at local libraries",
+              "Requiring applicants for government jobs to apply using an online platform",
+              "Working with technology companies to offer computing devices at discounted prices to individuals with reduced incomes",
+              "Working with telecommunications companies to build network infrastructure in remote areas"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-5",
+            "chapter": 5,
+            "source": "5",
+            "number": 5,
+            "pages": [
+              1,
+              2
+            ],
+            "stem": "Which of the following actions is most likely to raise legal or ethical concerns?",
+            "options": [
+              "An analyst writes a program that scans through a database of open-access scientific journals and creates a document with links to articles written on a particular topic.",
+              "A computer scientist adds several features to an open-source software program that was designed by another individual.",
+              "A musician creates a song using samples of a copyrighted work and then uses a Creative Commons license to publish the song.",
+              "A public interest group alerts people to a scam that involves charging them for a program that is available for free under a Creative Commons license."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-6",
+            "chapter": 5,
+            "source": "5",
+            "number": 6,
+            "pages": [
+              2
+            ],
+            "stem": "Which of the following activities is most likely to be successful as a citizen science project?",
+            "options": [
+              "Collecting pictures of plants from around the world that can be analyzed to look for regional differences in plant growth.",
+              "Designing and building a robot to help with tasks in a medical laboratory.",
+              "Sorting scientific records and removing duplicate entries in a database with a large number of entries.",
+              "Using a simulation to predict the impact of a construction project on local animal populations."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-7",
+            "chapter": 5,
+            "source": "5",
+            "number": 7,
+            "pages": [
+              2
+            ],
+            "stem": "Which of the following is NOT an advantage of using open-source software?",
+            "options": [
+              "Open-source software is generally free or lower in cost than commercially available software.",
+              "The availability of source code makes it possible to customize open-source software to a user’s individual needs.",
+              "The original developer of open-source software provides free or low-cost support for users installing and running the software.",
+              "Unlike commercial software, which can become obsolete when the company that created it goes out of business, open-source software can be updated without the involvement of the original programmers."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-10",
+            "chapter": 5,
+            "source": "5",
+            "number": 10,
+            "pages": [
+              3
+            ],
+            "stem": "A musician is creating a song using audio samples. Which of the following actions will minimize the risk of a copyright violation when creating sample-based music?",
+            "options": [
+              "Using samples found on popular music-streaming sites",
+              "Using samples found on peer-to-peer networks",
+              "Using samples from nondigital sound sources (vinyl records, tapes, etc.)",
+              "Using samples published with a no-rights-reserved Creative Commons license"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-11",
+            "chapter": 5,
+            "source": "5",
+            "number": 11,
+            "pages": [
+              3
+            ],
+            "stem": "An author is considering publishing an e-book using a Creative Commons license. In which of the following situations would it be better for the author to use a Creative Commons license instead of a traditional copyright?<br>I. The author wants to make the e-book available as a free download.<br>II. The author wants to prevent people from sharing copies of the e-book on peer-to-peer networks.<br>III. The author wants to allow people permission to use and modify the e-book.",
+            "options": [
+              "I only",
+              "II only",
+              "I and III",
+              "II and III"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-12",
+            "chapter": 5,
+            "source": "5",
+            "number": 12,
+            "pages": [
+              3,
+              4
+            ],
+            "stem": "Many Web browsers allow users to open anonymous windows. During a browsing session in an anonymous window, the browser does not record a browsing history or a list of downloaded files. When the anonymous window is exited, cookies created during the session are deleted. Which of the following statements about browsing sessions in an anonymous window is true?",
+            "options": [
+              "The activities of a user browsing in an anonymous window will not be visible to people who monitor the user’s network, such as the system administrator.",
+              "Items placed in a Web store’s shopping cart for future purchase during the anonymous browsing session will not be saved on the user’s computer.",
+              "A user will not be able to log in to e-mail or social media accounts during the anonymous browsing session.",
+              "A user browsing in an anonymous window will be protected from viruses launched from any Web sites visited or files downloaded."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-13",
+            "chapter": 5,
+            "source": "5",
+            "number": 13,
+            "pages": [
+              4
+            ],
+            "stem": "Which of the following applications is most likely to benefit from the use of crowdsourcing?",
+            "options": [
+              "An application that allows users to convert measurement units (e.g., inches to centimeters, ounces to liters)",
+              "An application that allows users to purchase tickets for a local museum",
+              "An application that allows users to compress the pictures on their devices to optimize storage space",
+              "An application that allows users to view descriptions and photographs of local landmarks"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-15",
+            "chapter": 5,
+            "source": "5",
+            "number": 15,
+            "pages": [
+              4
+            ],
+            "stem": "A user reads reviews of a popular artist’s new album and then downloads the album from the Web site of a licensed online music seller. Which of the following is LEAST likely to be a consequence of this action?",
+            "options": [
+              "Advertisements for the artist’s other albums will be displayed when the user visits a different Web site.",
+              "Album reviews from other people who live nearby will be displayed to the user.",
+              "Similar artists will be recommended to the user based on the user’s download selection.",
+              "The user will be in violation of the Digital Millennium Copyright Act (DMCA)."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-16",
+            "chapter": 5,
+            "source": "5",
+            "number": 16,
+            "pages": [
+              4,
+              5
+            ],
+            "stem": "A certain social media application is popular with people across the United States. The developers of the application are updating the algorithm used by the application to introduce a new feature that allows users of the application with similar interests to connect with one another. Which of the following strategies is LEAST likely to introduce bias into the application?",
+            "options": [
+              "Enticing users to spend more time using the application by providing the updated algorithm for users who use the application at least ten hours per week",
+              "Inviting a random sample of all users to try out the new algorithm and provide feedback before it is released to a wider audience",
+              "Providing the updated algorithm only to teenage users to generate excitement about the new feature",
+              "Testing the updated algorithm with a small number of users in the city where the developers are located so that immediate feedback can be gathered"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-18",
+            "chapter": 5,
+            "source": "5",
+            "number": 18,
+            "pages": [
+              5
+            ],
+            "stem": "Which of the following is most likely to be a beneficial effect of using MeeReader?",
+            "options": [
+              "Users may have a reduced risk of the application being used in unintended ways.",
+              "Users may have a reduced risk of their biometric data being misused.",
+              "Users with limited Internet access may be able to more easily obtain books and articles.",
+              "Users with visual impairments may be able to more easily read or listen to books and articles."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-19",
+            "chapter": 5,
+            "source": "5",
+            "number": 19,
+            "pages": [
+              5,
+              6
+            ],
+            "stem": "From the perspective of the application’s developers, which of the following is most likely to be a benefit of storing all user data in a database?",
+            "options": [
+              "The developers can analyze the data to make improvements to the application based on user behavior.",
+              "The developers can analyze the data to ensure that no patterns emerge in the data.",
+              "The developers can reduce the amount of data storage required to support the application.",
+              "The developers can reduce the need for data encryption."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-21",
+            "chapter": 5,
+            "source": "5",
+            "number": 21,
+            "pages": [
+              6
+            ],
+            "stem": "Which of the following is most likely to be a benefit to users of the application?",
+            "options": [
+              "The application allows users to identify all other users in a particular area.",
+              "Users of the application may be able to easily identify all other users in a particular area as a result of the application's algorithm for determining whether users are compatible.",
+              "Users of the application may see health benefits as a result of the application encouraging them to exercise with each other.",
+              "Users of the application who live in rural areas have the ability to use all the features of the application, even when they do not have Internet and geolocation connectivity."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-24",
+            "chapter": 5,
+            "source": "5",
+            "number": 24,
+            "pages": [
+              9
+            ],
+            "stem": "Which of the following is most likely to be a benefit of storing the information from each calling session in a database?",
+            "options": [
+              "The company can analyze the calling session data and thereby make better business decisions.",
+              "The company can ensure that customer information is protected from misuse.",
+              "The company can reduce the costs associated with data storage.",
+              "The company can reduce its need for data compression."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-25",
+            "chapter": 5,
+            "source": "5",
+            "number": 25,
+            "pages": [
+              9
+            ],
+            "stem": "Of the following potential benefits, which is LEAST likely to be provided by the upgraded system?",
+            "options": [
+              "Human representatives will not be needed to respond to some inquiries.",
+              "The company will be able to provide a human representative for any incoming call.",
+              "Customers are likely to spend less time listening to information not relevant to their issue.",
+              "Customers will be unable to mistakenly select the incorrect department for their particular issue."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-26",
+            "chapter": 5,
+            "source": "5",
+            "number": 26,
+            "pages": [
+              9,
+              10
+            ],
+            "stem": "Which of the following is the most likely data privacy concern of the upgraded system?",
+            "options": [
+              "Customers’ personal information could be compromised if an unauthorized individual gains access to the call session database.",
+              "Storing information in the call session database makes it easy for individuals to trick the system using malicious links.",
+              "The system design increases the chance that customers will unknowingly install malware on their devices that will share their data with unauthorized individuals.",
+              "The system design makes it easy for unauthorized individuals to acquire customers’ private encryption keys."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-27",
+            "chapter": 5,
+            "source": "5",
+            "number": 27,
+            "pages": [
+              10
+            ],
+            "stem": "A mobile game tracks players’ locations using GPS. The game offers special in-game items to players when they visit real-world points of interest. Which of the following best explains how bias could occur in the game?",
+            "options": [
+              "Points of interest may be more densely located in cities, favoring players in urban areas over players in rural areas.",
+              "Some players may engage in trespassing, favoring players in urban areas over players in rural areas.",
+              "Special items may not be useful to all players, favoring players in urban areas over players in rural areas.",
+              "Weather conditions may be unpredictable, favoring players in urban areas over players in rural areas."
+            ],
+            "answer": "A",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz5-28",
+            "chapter": 5,
+            "source": "5",
+            "number": 28,
+            "pages": [
+              10
+            ],
+            "stem": "Both online newspapers and social media sites are used to distribute information on the Internet. Which of the following best describes an advantage that online newspapers have over social media sites?",
+            "options": [
+              "The ability to distribute information instantaneously",
+              "The ability to provide credibility to the information distributed",
+              "The ability to provide information that is widely accessible",
+              "The ability to provide media-rich content for low cost"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-29",
+            "chapter": 5,
+            "source": "5",
+            "number": 29,
+            "pages": [
+              10
+            ],
+            "stem": "A small team of wildlife researchers is working on a project that uses motion-activated field cameras to capture images of animals at study sites. The team is considering using a “citizen science” approach to analyze the images. Which of the following best explains why such an approach is considered useful for this project?",
+            "options": [
+              "Distributed individuals are likely to be more accurate in wildlife identification than the research team.",
+              "The image analysis is likely to be more consistent if completed by an individual citizen.",
+              "The image analysis is likely to require complex research methods.",
+              "The image analysis is likely to take a longer time for the research team than for a distributed group of individuals."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-31",
+            "chapter": 5,
+            "source": "5",
+            "number": 31,
+            "pages": [
+              11
+            ],
+            "stem": "Which of the following has the greatest potential for compromising a user’s personal privacy?",
+            "options": [
+              "A group of cookies stored by the user’s Web browser",
+              "The Internet Protocol (IP) address of the user’s computer",
+              "The user’s e-mail address",
+              "The user’s public key used for encryption"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-32",
+            "chapter": 5,
+            "source": "5",
+            "number": 32,
+            "pages": [
+              11
+            ],
+            "stem": "The author of an e-book publishes the e-book using a no-rights-reserved Creative Commons license. Which of the following best explains the consequences of publishing the book with this type of license?",
+            "options": [
+              "The contents of the e-book will be encrypted and can only be decrypted by authorized individuals.",
+              "Individuals can freely distribute or use the contents of the e-book without needing to obtain additional permissions from the author.",
+              "Individuals will be legally prevented from sharing the e-book on a peer-to-peer network.",
+              "Individuals will be legally prevented from using excerpts from the e-book in another published work."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-33",
+            "chapter": 5,
+            "source": "5",
+            "number": 33,
+            "pages": [
+              11
+            ],
+            "stem": "Which of the following is LEAST likely to be a contributing factor to the digital divide?",
+            "options": [
+              "Some individuals and groups are economically disadvantaged and cannot afford computing devices or Internet connectivity.",
+              "Some individuals and groups do not have the necessary experience or education to use computing devices or the Internet effectively.",
+              "Some parents prefer to limit the amount of time their children spend using computing devices or the Internet.",
+              "Some residents in remote regions of the world do not have access to the infrastructure necessary to support reliable Internet connectivity."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-34",
+            "chapter": 5,
+            "source": "5",
+            "number": 34,
+            "pages": [
+              11
+            ],
+            "stem": "Which of the following best describes the impact of Creative Commons?",
+            "options": [
+              "Creative Commons gives creators of digital content the ability to indicate how their works can be legally used and distributed, enabling broad access to digital information.",
+              "Creative Commons gives Internet users the right to legally use and distribute any previously copyrighted work, enabling broad access to digital information.",
+              "Create Commons provides lossless transmission of messages, enabling reliable distribution of digital information.",
+              "Creative Commons provides private transmission of messages, enabling secure distribution of digital information."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-36",
+            "chapter": 5,
+            "source": "5",
+            "number": 36,
+            "pages": [
+              12
+            ],
+            "stem": "Which of the following is most likely to be a data privacy concern for StreamPal users?",
+            "options": [
+              "Users of the application are required to rate songs in order to enable all of the application’s features.",
+              "Users of the application may have the ability to determine information about the locations of users that are not on their contact list.",
+              "Users of the application may not be able to use the application if they are located in an area with a poor Internet connection.",
+              "Users of the application may not have similar music taste to any other users on their contact list."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-37",
+            "chapter": 5,
+            "source": "5",
+            "number": 37,
+            "pages": [
+              12
+            ],
+            "stem": "Which of the following statements is most likely true about the differences between the basic version and the premium version of StreamPal?",
+            "options": [
+              "Users of the basic version of StreamPal are more likely to give songs higher ratings than are users of the premium version of StreamPal.",
+              "Users of the basic version of StreamPal indirectly support StreamPal by allowing themselves to receive advertisements.",
+              "Users of the basic version of StreamPal spend more on monthly fees than do users of the premium version of StreamPal.",
+              "Users of the basic version of StreamPal use less data storage space on their devices than do users of the premium version of StreamPal."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-38",
+            "chapter": 5,
+            "source": "5",
+            "number": 38,
+            "pages": [
+              13
+            ],
+            "stem": "Which of the following are true statements about how the Internet enables crowdsourcing?<br>I. The Internet can provide crowdsourcing participants access to useful tools, information, and professional knowledge.<br>II. The speed and reach of the Internet can lower geographic barriers, allowing individuals from different locations to contribute to projects.<br>III. Using the Internet to distribute solutions across many users allows all computational problems to be solved in reasonable time, even for very large input sizes.",
+            "options": [
+              "I and II only",
+              "I and III only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-39",
+            "chapter": 5,
+            "source": "5",
+            "number": 39,
+            "pages": [
+              13
+            ],
+            "stem": "Which of the following are true statements about digital certificates in Web browsers?<br>I. Digital certificates are used to verify the ownership of encrypted keys used in secured communication.<br>II. Digital certificates are used to verify that the connection to a Web site is fault tolerant.",
+            "options": [
+              "I only",
+              "II only",
+              "I and II",
+              "Neither I nor II"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-40",
+            "chapter": 5,
+            "source": "5",
+            "number": 40,
+            "pages": [
+              13
+            ],
+            "stem": "In public key cryptography, the sender uses the recipient’s public key to encrypt a message. Which of the following is needed to decrypt the message?",
+            "options": [
+              "The sender’s public key",
+              "The sender’s private key",
+              "The recipient’s public key",
+              "The recipient’s private key"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-43",
+            "chapter": 5,
+            "source": "5",
+            "number": 43,
+            "pages": [
+              14
+            ],
+            "stem": "A software development company has created an application called FileCleanUp. When the application is run on a user device, it searches for all files (including pictures, videos, and documents) that have not been accessed in the past month, stores them on the company’s Web server, and deletes them from the user device. The application runs once each day. Users have the ability to manually retrieve files from the server if they are needed. Which of the following is most likely to be a harmful effect of using FileCleanUp?",
+            "options": [
+              "It prevents users from accessing frequently used files when there is no Internet connectivity.",
+              "It prevents users from accessing infrequently used files when there is no Internet connectivity.",
+              "It prevents users from accessing frequently used files when there is reliable Internet connectivity.",
+              "It prevents users from accessing infrequently used files when there is reliable Internet connectivity."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-44",
+            "chapter": 5,
+            "source": "5",
+            "number": 44,
+            "pages": [
+              14,
+              15
+            ],
+            "stem": "A user unintentionally installs keylogging software on a computer. Which of the following is an example of how the keylogging software can be used by an unauthorized individual to gain access to computing resources?",
+            "options": [
+              "The software gives an unauthorized individual remote access to the computer, allowing the individual to search the computer for personal information.",
+              "The software installs a virus on the computer and prompts the user to make a payment to the unauthorized individual to remove the virus.",
+              "The software prompts the user to enter personal information to verify the user’s identity. This personal information is recorded and transmitted to an unauthorized individual.",
+              "The software records all user input on the computer. The recorded information is transmitted to an unauthorized individual, who analyzes it to determine the user’s login passwords."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-45",
+            "chapter": 5,
+            "source": "5",
+            "number": 45,
+            "pages": [
+              15
+            ],
+            "stem": "Which of the following would be the best use of citizen science?",
+            "options": [
+              "An experiment that requires all participants to be working in the same laboratory",
+              "An experiment that requires expensive equipment to conduct",
+              "An experiment that requires data measurements to be taken in many different locations",
+              "An experiment that requires specialized knowledge and training to conduct"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-46",
+            "chapter": 5,
+            "source": "5",
+            "number": 46,
+            "pages": [
+              15
+            ],
+            "stem": "An individual receives an e-mail that appears to be from an insurance company. The message offers a low insurance rate, and prompts the recipient to click a link to learn more. Which of the following is most indicative that the e- mail is part of a phishing attempt?",
+            "options": [
+              "After clicking the link, a browser cookie is downloaded to the recipient’s computer.",
+              "After clicking the link, a Web page opens that prompts the recipient for personal information.",
+              "After clicking the link, the recipient’s private network becomes publicly visible via a rogue access point.",
+              "After clicking the link, software is installed on the recipient’s computer that records every keystroke made on the computer."
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-50",
+            "chapter": 5,
+            "source": "5",
+            "number": 50,
+            "pages": [
+              16
+            ],
+            "stem": "Which of the following activities poses the greatest personal cybersecurity risk?",
+            "options": [
+              "Making a purchase at an online store that uses public key encryption to transmit credit card information",
+              "Paying a bill using a secure electronic payment system",
+              "Reserving a hotel room by e-mailing a credit card number to a hotel",
+              "Withdrawing money from a bank account using an automated teller machine (ATM)"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-51",
+            "chapter": 5,
+            "source": "5",
+            "number": 51,
+            "pages": [
+              16
+            ],
+            "stem": "A user purchased a new smart home device with embedded software and connected the device to a home network. The user then registered the device with the manufacturer, setting up an account using a personal e-mail and password. Which of the following explains how a phishing attack could occur against the user of the smart home device?",
+            "options": [
+              "A vulnerability in the device’s software is exploited to gain unauthorized access to other devices on the user’s home network.",
+              "A vulnerability in the device’s software is exploited to install software that reveals the user’s password to an unauthorized individual.",
+              "The user is sent an e-mail appearing to be from the manufacturer, asking the user to confirm the account password by clicking on a link in the e-mail and entering the password on the resulting page.",
+              "The user’s account is sent an overwhelming number of messages in an attempt to disrupt service on the user’s home network."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-52",
+            "chapter": 5,
+            "source": "5",
+            "number": 52,
+            "pages": [
+              16
+            ],
+            "stem": "Which of the following is LEAST likely to indicate a phishing attack?",
+            "options": [
+              "An e-mail from your bank asks you to call the number on your card to verify a transaction",
+              "An e-mail from a merchant asks that you click on a link to reset your password",
+              "An e-mail from a utility company asks you to enter your date of birth and social security number for verification purposes",
+              "An e-mail indicates that you have won a large sum of money and asks you to enter your bank account number so that the money can be transferred to you"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-55",
+            "chapter": 5,
+            "source": "5",
+            "number": 55,
+            "pages": [
+              17
+            ],
+            "stem": "A city’s police department has installed cameras throughout city streets. The cameras capture and store license plate data from cars driven and parked throughout the city. The authorities use recorded license plate data to identify stolen cars and to enforce parking regulations. Which of the following best describes a privacy risk that could occur if this method of data collection is misused?",
+            "options": [
+              "The cameras may not be able to read license plates in poor weather conditions.",
+              "Local business owners could lose customers who are unwilling to park in the city.",
+              "Traffic personnel who work for the city could lose their jobs if their services are no longer needed.",
+              "The vehicle location data could be used to monitor the movements of city residents."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-56",
+            "chapter": 5,
+            "source": "5",
+            "number": 56,
+            "pages": [
+              17
+            ],
+            "stem": "A programmer created a piece of software and wants to publish it using a Creative Commons license. Which of the following is a direct benefit of publishing the software with this type of license?",
+            "options": [
+              "The programmer can ensure that the algorithms used in the software are free from bias.",
+              "The programmer can ensure that the source code for the software is backed up for archival purposes.",
+              "The programmer can include code that was written by other people in the software without needing to obtain permission.",
+              "The programmer can specify the ways that other people are legally allowed to use and distribute the software."
+            ],
+            "answer": "D",
+            "explanation": ""
+          }
+        ],
+        [
+          {
+            "id": "quiz5-57",
+            "chapter": 5,
+            "source": "5",
+            "number": 57,
+            "pages": [
+              17,
+              18
+            ],
+            "stem": "Which of the following best describes the purpose of machine learning programs?",
+            "options": [
+              "To analyze large data sets, recognize patterns, and make predictions based on data",
+              "To automatically translate algorithms from natural language to machine language",
+              "To determine whether an algorithm can be constructed to answer “yes” or “no” for all possible inputs",
+              "To find approximate solutions to problems that would otherwise require an unreasonably long amount of time to solve"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-58",
+            "chapter": 5,
+            "source": "5",
+            "number": 58,
+            "pages": [
+              18
+            ],
+            "stem": "A software company is designing a mobile game system that should be able to recognize the faces of people who are playing the game and automatically load their profiles. Which of the following actions is most likely to reduce the possibility of bias in the system?",
+            "options": [
+              "Testing the system with members of the software company’s staff",
+              "Testing the system with people of different ages, genders, and ethnicities",
+              "Testing the system to make sure that the rules of the game are clearly explained",
+              "Testing the system to make sure that players cannot create multiple profiles"
+            ],
+            "answer": "B",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-60",
+            "chapter": 5,
+            "source": "5",
+            "number": 60,
+            "pages": [
+              18
+            ],
+            "stem": "Which of the following actions could be used to help reduce the digital divide?<br>I. Providing free education and training on how to use computing devices<br>II. Providing free or low-cost computing devices to low-income individuals<br>III. Providing networks and infrastructure to people in remote areas",
+            "options": [
+              "III only",
+              "I and II only",
+              "II and III only",
+              "I, II, and III"
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-61",
+            "chapter": 5,
+            "source": "5",
+            "number": 61,
+            "pages": [
+              18,
+              19
+            ],
+            "stem": "Which of the following actions is most likely to be effective in reducing the digital divide at a local level?",
+            "options": [
+              "Creating an application that offers coupons and discounts for local businesses",
+              "Offering a discount to utility customers who pay their bills online instead of by mail",
+              "Providing free community access to computers at schools, libraries, and community centers",
+              "Requiring applicants for local government jobs to complete an online application"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-62",
+            "chapter": 5,
+            "source": "5",
+            "number": 62,
+            "pages": [
+              19
+            ],
+            "stem": "Which of the following research proposals is most likely to be successful as a citizen science project?",
+            "options": [
+              "Collecting pictures of birds from around the world that can then be analyzed to determine how location affects bird size",
+              "Monitoring a group of cells in a laboratory to determine how growth rate is affected by exposure to varying temperatures",
+              "Using a simulation to determine which one from a set of chemicals causes the most significant change to local animal and plant life",
+              "Using specialized equipment to perform three-dimensional scans of complex proteins found in human cells"
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-63",
+            "chapter": 5,
+            "source": "5",
+            "number": 63,
+            "pages": [
+              19
+            ],
+            "stem": "Which of the following best explains how a certificate authority is used in protecting data?",
+            "options": [
+              "A certificate authority certifies the safety of a particular Web site so that users know that it does not contain any viruses.",
+              "A certificate authority issues passwords that grant access to secure databases.",
+              "A certificate authority maintains a secure database that maps all Web domain names to the IP addresses of the servers where the sites are hosted.",
+              "A certificate authority verifies the authenticity of encryption keys used in secured communications."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-64",
+            "chapter": 5,
+            "source": "5",
+            "number": 64,
+            "pages": [
+              19
+            ],
+            "stem": "Which of the following school policies is most likely to have a positive impact on the digital divide?",
+            "options": [
+              "A school allows students to bring a graphing calculator from home to complete in-class mathematics assignments.",
+              "A school allows students to bring a tablet computer to class every day to participate in graded quizzes.",
+              "A school provides a laptop or tablet computer to all students enrolled at the school.",
+              "A school recommends that all students purchase a computer with as much processing speed as possible so that projects run faster."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-65",
+            "chapter": 5,
+            "source": "5",
+            "number": 65,
+            "pages": [
+              19
+            ],
+            "stem": "Which of the following is a true statement about the use of public key encryption in transmitting messages?",
+            "options": [
+              "Public key encryption enables parties to initiate secure communications through an open medium, such as the Internet, in which there might be eavesdroppers.",
+              "Public key encryption is not considered a secure method of communication because a public key can be intercepted.",
+              "Public key encryption only allows the encryption of documents containing text; documents containing audio and video must use a different encryption method.",
+              "Public key encryption uses a single key that should be kept secure because it is used for both encryption and decryption."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-66",
+            "chapter": 5,
+            "source": "5",
+            "number": 66,
+            "pages": [
+              20
+            ],
+            "stem": "A mobile application is used to display local traffic conditions. Which of the following features of the application best exemplifies the use of crowdsourcing?",
+            "options": [
+              "Users can save an address to be used at a later time.",
+              "Users can turn on alerts to be notified about traffic accidents.",
+              "Users can submit updates on local traffic conditions in real time.",
+              "Users can use the application to avoid heavily congested areas."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-68",
+            "chapter": 5,
+            "source": "5",
+            "number": 68,
+            "pages": [
+              20
+            ],
+            "stem": "An Internet user has a need to send private data to another user. Which of the following provides the most security when transmitting private data?",
+            "options": [
+              "Certifying the data with a Creative Commons license before sending it",
+              "Sending the data using a high-bandwidth connection",
+              "Sending the data using public-key encryption",
+              "Sending the data using redundant routing"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-69",
+            "chapter": 5,
+            "source": "5",
+            "number": 69,
+            "pages": [
+              20
+            ],
+            "stem": "Which of the following is considered an unethical use of computer resources?",
+            "options": [
+              "Downloading freeware or shareware onto your home computer",
+              "Purchasing a game from an app store and downloading it directly to a mobile device",
+              "Purchasing a single-user copy of photo editing software and installing it on all the computers in a computer lab",
+              "Searching online for an electronic version of a school textbook"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-70",
+            "chapter": 5,
+            "source": "5",
+            "number": 70,
+            "pages": [
+              20,
+              21
+            ],
+            "stem": "A student purchases a single-user license of a copyrighted application and wants other students to be able to use it at the same time. Under which of the following conditions is it considered acceptable for the student to share the application?",
+            "options": [
+              "When the application is shared only with students at the same school",
+              "When the application is shared on a peer-to-peer network",
+              "When the student gets permission from the copyright owner of the application",
+              "When the student makes a copy of the application for another student to use only once"
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-71",
+            "chapter": 5,
+            "source": "5",
+            "number": 71,
+            "pages": [
+              21
+            ],
+            "stem": "Which of the following is an example of an attack using a rogue access point?",
+            "options": [
+              "An unauthorized individual gains the ability to view network traffic by connecting to a network router that uses weak or no security measures.",
+              "An unauthorized individual physically disconnects an exposed network router, making the network unavailable to some users.",
+              "An unauthorized individual poses as a network administrator and attempts to trick a user into providing personal information.",
+              "A group of unauthorized individuals overwhelms a network router with traffic, making it unavailable to some users."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-73",
+            "chapter": 5,
+            "source": "5",
+            "number": 73,
+            "pages": [
+              21
+            ],
+            "stem": "Which of the following best exemplifies the use of multifactor authentication?",
+            "options": [
+              "A computing device enables users to input information using multiple interfaces, including a keyboard, a mouse, and a touch pad.",
+              "A user employs a public key encryption method that uses one key to encrypt information and a different key to decrypt information.",
+              "A Web site requires a user to enter a password as well as a numeric code received via text message before the user can log in to an account.",
+              "Multiple users share an account to a Web-based software program, and each user has an individual username and password."
+            ],
+            "answer": "C",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-74",
+            "chapter": 5,
+            "source": "5",
+            "number": 74,
+            "pages": [
+              21,
+              22
+            ],
+            "stem": "Which of the following best explains how symmetric encryption algorithms are typically used?",
+            "options": [
+              "Symmetric encryption uses a single key that should be kept secret. The same key is used for both encryption and decryption of data.",
+              "Symmetric encryption uses a single key that should be made public. The same key is used for both encryption and decryption of data.",
+              "Symmetric encryption uses two keys that should both be kept secret. One key is used for encryption, and the other is used for decryption.",
+              "Symmetric encryption uses two keys. The key used for encryption should be made public, but the key used for decryption should be kept secret."
+            ],
+            "answer": "A",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-75",
+            "chapter": 5,
+            "source": "5",
+            "number": 75,
+            "pages": [
+              22
+            ],
+            "stem": "Which of the following best explains how devices and information can be susceptible to unauthorized access if weak passwords are used?",
+            "options": [
+              "Unauthorized individuals can deny service to a computing system by overwhelming the system with login attempts.",
+              "Unauthorized individuals can exploit vulnerabilities in compression algorithms to determine a user’s password from their decompressed data.",
+              "Unauthorized individuals can exploit vulnerabilities in encryption algorithms to determine a user’s password from their encryption key.",
+              "Unauthorized individuals can use data mining and other techniques to guess a user’s password."
+            ],
+            "answer": "D",
+            "explanation": ""
+          },
+          {
+            "id": "quiz5-76",
+            "chapter": 5,
+            "source": "5",
+            "number": 76,
+            "pages": [
+              22
+            ],
+            "stem": "Individuals sometimes attempt to remove personal information from the Internet. Which of the following is the LEAST likely reason the personal information is hard to remove?",
+            "options": [
+              "Internet users with a copy of the information might redistribute the personal information without first seeking permission.",
+              "There are potentially an extremely large number of devices on the Internet that may contain the information.",
+              "Automated technologies collect information about Internet users without their knowledge.",
+              "All personal information is stored online using authentication measures, making the information hard to access."
+            ],
+            "answer": "D",
+            "explanation": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "raw": {
+    "1": 63,
+    "2": 94,
+    "31": 28,
+    "32": 67,
+    "33": 75,
+    "34": 48,
+    "4": 47,
+    "5": 76
+  }
+}
